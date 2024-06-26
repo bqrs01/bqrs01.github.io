@@ -179,7 +179,12 @@
           "videoId": "RmA7V67lB_Q",
           "topic": "Cargonaut: a crew of drones searching for golden boxes",
           "location": "Lecture Hall K"
-      }
+      },
+      {
+          "groupNumber": 31,
+          "videoId": "htQWGPp-QQk",
+          "topic": "Extra graduates",
+          "location": "Lecture Hall A"}
   ],
   "timeSlots": [
       {
@@ -252,6 +257,14 @@
               4,
               12,
               26
+          ]
+      },
+      {
+          "time": "16:30 \u2014 16:45",
+          "starting": "2024-06-28T16:30:00+02:00",
+          "ending": "2024-06-28T16:45:00+02:00",
+          "groups": [
+              31
           ]
       }
   ],
