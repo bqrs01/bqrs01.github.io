@@ -38,5 +38,13 @@
       { "time": "13:30 — 14:30", "starting": "20240628T133000+0200", "ending": "20240628T143000+0200", "groups": [7, 20, 6, 13, 30] },
       { "time": "14:30 — 15:30", "starting": "20240628T143000+0200", "ending": "20240628T153000+0200", "groups": [8, 25, 3, 14, 10] },
       { "time": "15:30 — 16:30", "starting": "20240628T153000+0200", "ending": "20240628T163000+0200", "groups": [27, 24, 4, 12, 26] }
+    ],
+
+    "rooms": [
+      { "name": "Lecture Hall A", "location": "A", "chair": "ir. Joris Melkert" },
+      { "name": "Lecture Hall B", "location": "B", "chair": "dr.ir Erwin Mooij"},
+      { "name": "Lecture Hall C", "location": "C", "chair": "prof.dr.ir. Carlos Ferreira"},
+      { "name": "Lecture Hall D", "location": "D", "chair": "dr. Marilena Pavel"},
+      { "name": "Lecture Hall K", "location": "K", "chair": "dr. Jian Guo"}
     ]
-  }
+}
