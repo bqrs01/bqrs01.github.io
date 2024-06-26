@@ -1,50 +1,285 @@
 {
-    "youtubeLinks": [
-      { "groupNumber": 1, "videoId": "", "topic": "Transwing E-Vtol", "location": "Lecture Hall D" },
-      { "groupNumber": 2, "videoId": "", "topic": "Martian Drone", "location": "Lecture Hall K" },
-      { "groupNumber": 3, "videoId": "", "topic": "Cargo Airship for wind turbine installations", "location": "Lecture Hall C" },
-      { "groupNumber": 4, "videoId": "", "topic": "Unmanned VTOL platform for off shore operations", "location": "Lecture Hall C" },
-      { "groupNumber": 5, "videoId": "", "topic": "WAVEWING - Integrated Airborne Wind and Wave Energy Converters", "location": "Lecture Hall C" },
-      { "groupNumber": 6, "videoId": "", "topic": "Regenerative Wind Farming", "location": "Lecture Hall C" },
-      { "groupNumber": 7, "videoId": "", "topic": "Low-emissions take- off and landing procedure for UAM", "location": "Lecture Hall A" },
-      { "groupNumber": 8, "videoId": "", "topic": "Sustainable glider tow craft", "location": "Lecture Hall A" },
-      { "groupNumber": 9, "videoId": "", "topic": "Airborne Minesweeper", "location": "Lecture Hall C" },
-      { "groupNumber": 10, "videoId": "", "topic": "FLOWS", "location": "Lecture Hall K" },
-      { "groupNumber": 11, "videoId": "", "topic": "Pentefoiling", "location": "Lecture Hall D" },
-      { "groupNumber": 12, "videoId": "", "topic": "Wildfire Drone Swarm", "location": "Lecture Hall D" },
-      { "groupNumber": 13, "videoId": "", "topic": "Multi-role VTOL Aerial Firefighting Aircraft", "location": "Lecture Hall D" },
-      { "groupNumber": 14, "videoId": "", "topic": "Multi-role VTOL Aerial Firefighting Aircraft", "location": "Lecture Hall D" },
-      { "groupNumber": 15, "videoId": "", "topic": "Humanair", "location": "Lecture Hall C" },
-      { "groupNumber": 16, "videoId": "", "topic": "WUAV", "location": "Lecture Hall D" },
-      { "groupNumber": 17, "videoId": "", "topic": "Functional strandbeest structures from recycled wind blades", "location": "Lecture Hall C" },
-      { "groupNumber": 18, "videoId": "", "topic": "Lunar Buggy", "location": "Lecture Hall B" },
-      { "groupNumber": 19, "videoId": "", "topic": "Electric General Aviation Aircraft", "location": "Lecture Hall A" },
-      { "groupNumber": 20, "videoId": "", "topic": "MARS LOX_LCO", "location": "Lecture Hall B" },
-      { "groupNumber": 21, "videoId": "", "topic": "Moon 2030 - a New Hope", "location": "Lecture Hall B" },
-      { "groupNumber": 22, "videoId": "", "topic": "Breaking Barriers", "location": "Lecture Hall K" },
-      { "groupNumber": 23, "videoId": "", "topic": "Asteroid Mapping and Sample Retrieving Mission", "location": "Lecture Hall B" },
-      { "groupNumber": 24, "videoId": "", "topic": "AlienDive", "location": "Lecture Hall B" },
-      { "groupNumber": 25, "videoId": "", "topic": "A first look at planet 9", "location": "Lecture Hall B" },
-      { "groupNumber": 26, "videoId": "", "topic": "E-Racer", "location": "Lecture Hall K" },
-      { "groupNumber": 27, "videoId": "", "topic": "Energy efficient aircraft", "location": "Lecture Hall A" },
-      { "groupNumber": 28, "videoId": "", "topic": "GoAERO", "location": "Lecture Hall A" },
-      { "groupNumber": 29, "videoId": "", "topic": "Environmental impact reduction through aircraft design", "location": "Lecture Hall A" },
-      { "groupNumber": 30, "videoId": "", "topic": "Cargonaut: a crew of drones searching for golden boxes", "location": "Lecture Hall K" }
-    ],
-    "timeSlots": [
-      { "time": "09:30 — 10:30", "starting": "20240628T093000+0200", "ending": "20240628T103000+0200", "groups": [19, 23, 5, 1, 22] },
-      { "time": "10:30 — 11:30", "starting": "20240628T103000+0200", "ending": "20240628T113000+0200", "groups": [28, 18, 15, 11, 2] },
-      { "time": "11:30 — 12:30", "starting": "20240628T113000+0200", "ending": "20240628T123000+0200", "groups": [29, 21, 17, 9, 16] },
-      { "time": "13:30 — 14:30", "starting": "20240628T133000+0200", "ending": "20240628T143000+0200", "groups": [7, 20, 6, 13, 30] },
-      { "time": "14:30 — 15:30", "starting": "20240628T143000+0200", "ending": "20240628T153000+0200", "groups": [8, 25, 3, 14, 10] },
-      { "time": "15:30 — 16:30", "starting": "20240628T153000+0200", "ending": "20240628T163000+0200", "groups": [27, 24, 4, 12, 26] }
-    ],
-
-    "rooms": [
-      { "name": "Lecture Hall A", "location": "A", "chair": "ir. Joris Melkert" },
-      { "name": "Lecture Hall B", "location": "B", "chair": "dr.ir Erwin Mooij"},
-      { "name": "Lecture Hall C", "location": "C", "chair": "prof.dr.ir. Carlos Ferreira"},
-      { "name": "Lecture Hall D", "location": "D", "chair": "dr. Marilena Pavel"},
-      { "name": "Lecture Hall K", "location": "K", "chair": "dr. Jian Guo"}
-    ]
+  "youtubeLinks": [
+      {
+          "groupNumber": 1,
+          "videoId": "6SAd_WvuXhg",
+          "topic": "Transwing E-Vtol",
+          "location": "Lecture Hall D"
+      },
+      {
+          "groupNumber": 2,
+          "videoId": "SII1zDvUlyE",
+          "topic": "Martian Drone",
+          "location": "Lecture Hall K"
+      },
+      {
+          "groupNumber": 3,
+          "videoId": "HLwFKMYC91U",
+          "topic": "Cargo Airship for wind turbine installations",
+          "location": "Lecture Hall C"
+      },
+      {
+          "groupNumber": 4,
+          "videoId": "-haiiJQS-2c",
+          "topic": "Unmanned VTOL platform for off shore operations",
+          "location": "Lecture Hall C"
+      },
+      {
+          "groupNumber": 5,
+          "videoId": "rSmFPsxiegk",
+          "topic": "WAVEWING - Integrated Airborne Wind and Wave Energy Converters",
+          "location": "Lecture Hall C"
+      },
+      {
+          "groupNumber": 6,
+          "videoId": "Qhlqy2MP6b0",
+          "topic": "Regenerative Wind Farming",
+          "location": "Lecture Hall C"
+      },
+      {
+          "groupNumber": 7,
+          "videoId": "UexXZQSabMk",
+          "topic": "Low-emissions take- off and landing procedure for UAM",
+          "location": "Lecture Hall A"
+      },
+      {
+          "groupNumber": 8,
+          "videoId": "Iip8UEn-GKI",
+          "topic": "Sustainable glider tow craft",
+          "location": "Lecture Hall A"
+      },
+      {
+          "groupNumber": 9,
+          "videoId": "A-lDJ7J5BTM",
+          "topic": "Airborne Minesweeper",
+          "location": "Lecture Hall C"
+      },
+      {
+          "groupNumber": 10,
+          "videoId": "0U4rfXM0VJk",
+          "topic": "FLOWS",
+          "location": "Lecture Hall K"
+      },
+      {
+          "groupNumber": 11,
+          "videoId": "3u9kEpSoJNA",
+          "topic": "Pentefoiling",
+          "location": "Lecture Hall D"
+      },
+      {
+          "groupNumber": 12,
+          "videoId": "NBA2C0rwvsY",
+          "topic": "Wildfire Drone Swarm",
+          "location": "Lecture Hall D"
+      },
+      {
+          "groupNumber": 13,
+          "videoId": "iiK_dZEVg90",
+          "topic": "Multi-role VTOL Aerial Firefighting Aircraft",
+          "location": "Lecture Hall D"
+      },
+      {
+          "groupNumber": 14,
+          "videoId": "XEXGdBb7bYI",
+          "topic": "Multi-role VTOL Aerial Firefighting Aircraft",
+          "location": "Lecture Hall D"
+      },
+      {
+          "groupNumber": 15,
+          "videoId": "y-eUhKiGV4E",
+          "topic": "Humanair",
+          "location": "Lecture Hall C"
+      },
+      {
+          "groupNumber": 16,
+          "videoId": "tkyh8XGNwaA",
+          "topic": "WUAV",
+          "location": "Lecture Hall D"
+      },
+      {
+          "groupNumber": 17,
+          "videoId": "EpnJzzKw1XU",
+          "topic": "Functional strandbeest structures from recycled wind blades",
+          "location": "Lecture Hall C"
+      },
+      {
+          "groupNumber": 18,
+          "videoId": "Tkz7NyqBass",
+          "topic": "Lunar Buggy",
+          "location": "Lecture Hall B"
+      },
+      {
+          "groupNumber": 19,
+          "videoId": "rGkdJKT0qXE",
+          "topic": "Electric General Aviation Aircraft",
+          "location": "Lecture Hall A"
+      },
+      {
+          "groupNumber": 20,
+          "videoId": "bFnswETMwF4",
+          "topic": "MARS LOX_LCO",
+          "location": "Lecture Hall B"
+      },
+      {
+          "groupNumber": 21,
+          "videoId": "paps9FAccs8",
+          "topic": "Moon 2030 - a New Hope",
+          "location": "Lecture Hall B"
+      },
+      {
+          "groupNumber": 22,
+          "videoId": "VaDbvZq5LeM",
+          "topic": "Breaking Barriers",
+          "location": "Lecture Hall K"
+      },
+      {
+          "groupNumber": 23,
+          "videoId": "txhbqivrWUI",
+          "topic": "Asteroid Mapping and Sample Retrieving Mission",
+          "location": "Lecture Hall B"
+      },
+      {
+          "groupNumber": 24,
+          "videoId": "Ndh5avUYHxk",
+          "topic": "AlienDive",
+          "location": "Lecture Hall B"
+      },
+      {
+          "groupNumber": 25,
+          "videoId": "z0ktqR_LZ7s",
+          "topic": "A first look at planet 9",
+          "location": "Lecture Hall B"
+      },
+      {
+          "groupNumber": 26,
+          "videoId": "R1L7x3xomMo",
+          "topic": "E-Racer",
+          "location": "Lecture Hall K"
+      },
+      {
+          "groupNumber": 27,
+          "videoId": "BaodQkxV2x0",
+          "topic": "Energy efficient aircraft",
+          "location": "Lecture Hall A"
+      },
+      {
+          "groupNumber": 28,
+          "videoId": "a7M0ZRh_26M",
+          "topic": "GoAERO",
+          "location": "Lecture Hall A"
+      },
+      {
+          "groupNumber": 29,
+          "videoId": "WIpRk8X5sW8",
+          "topic": "Environmental impact reduction through aircraft design",
+          "location": "Lecture Hall A"
+      },
+      {
+          "groupNumber": 30,
+          "videoId": "RmA7V67lB_Q",
+          "topic": "Cargonaut: a crew of drones searching for golden boxes",
+          "location": "Lecture Hall K"
+      }
+  ],
+  "timeSlots": [
+      {
+          "time": "09:30 \u2014 10:30",
+          "starting": "2024-06-28T09:30:00+02:00",
+          "ending": "2024-06-28T10:30:00+02:00",
+          "groups": [
+              19,
+              23,
+              5,
+              1,
+              22
+          ]
+      },
+      {
+          "time": "10:30 \u2014 11:30",
+          "starting": "2024-06-28T10:30:00+02:00",
+          "ending": "2024-06-28T11:30:00+02:00",
+          "groups": [
+              28,
+              18,
+              15,
+              11,
+              2
+          ]
+      },
+      {
+          "time": "11:30 \u2014 12:30",
+          "starting": "2024-06-28T11:30:00+02:00",
+          "ending": "2024-06-28T12:30:00+02:00",
+          "groups": [
+              29,
+              21,
+              17,
+              9,
+              16
+          ]
+      },
+      {
+          "time": "13:30 \u2014 14:30",
+          "starting": "2024-06-28T13:30:00+02:00",
+          "ending": "2024-06-28T14:30:00+02:00",
+          "groups": [
+              7,
+              20,
+              6,
+              13,
+              30
+          ]
+      },
+      {
+          "time": "14:30 \u2014 15:30",
+          "starting": "2024-06-28T14:30:00+02:00",
+          "ending": "2024-06-28T15:30:00+02:00",
+          "groups": [
+              8,
+              25,
+              3,
+              14,
+              10
+          ]
+      },
+      {
+          "time": "15:30 \u2014 16:30",
+          "starting": "2024-06-28T15:30:00+02:00",
+          "ending": "2024-06-28T16:30:00+02:00",
+          "groups": [
+              27,
+              24,
+              4,
+              12,
+              26
+          ]
+      }
+  ],
+  "rooms": [
+      {
+          "name": "Lecture Hall A",
+          "location": "A",
+          "chair": "ir. Joris Melkert"
+      },
+      {
+          "name": "Lecture Hall B",
+          "location": "B",
+          "chair": "dr.ir Erwin Mooij"
+      },
+      {
+          "name": "Lecture Hall C",
+          "location": "C",
+          "chair": "prof.dr.ir. Carlos Ferreira"
+      },
+      {
+          "name": "Lecture Hall D",
+          "location": "D",
+          "chair": "dr. Marilena Pavel"
+      },
+      {
+          "name": "Lecture Hall K",
+          "location": "K",
+          "chair": "dr. Jian Guo"
+      }
+  ]
 }
