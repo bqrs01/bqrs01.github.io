@@ -1,330 +1,345 @@
 {
-    "youtubeLinks": [
-        {
-            "groupNumber": 1,
-            "videoId": "6SAd_WvuXhg",
-            "topic": "Transwing E-Vtol",
-            "location": "Lecture Hall D",
-            "slides": "U2FsdGVkX19/86IWW/BQ6zBp3qXabh3FG/vyY27wr5p6tvUCzREwILeujEE6cnTrZMU9SgyuESQsQGHs1MTNybVRjDU3fHKYfqZ/ziAluQN1KO+DuKoGUj4ogs4GBxliElNZPRSCN7mxaFDCL2Epemr0cDBZNRSouU+gJnOEACOz3P+l7360r/XpjYxsJqaQqUSrhIpvJre3AlxYclCbmsg64PtOLLf5CI9GBkbUMlh3Mh77enRX94w1c95QSUVpw36k1WzWVYno8goTFnVEAB5lPag4KpsZ6UXIHWgd6XZhZBQfPPEerbywRkRZYIUGQyx7Ha+BUrzuAij/MCKqOxOwGADCFiJk2XFMSEu0rFb2K2YhzrroUiLBjzVZmvHu9p/Legj/4hToteApSxBiWNin2+AH6i9AaLlJhe4sTDw="
-        },
-        {
-            "groupNumber": 2,
-            "videoId": "SII1zDvUlyE",
-            "topic": "Martian Drone",
-            "location": "Lecture Hall K",
-            "slides": "U2FsdGVkX19dxj4gLh5n2B+sBALQ0olMg2uUk4M3O7dNVlbzk7jbar3dfO6V5sHPVGpEYzzdk1Ze7+fWlagzVplaSXG1pTnXC2jzcMxs6ywY2fySXevvjv/wfkst4N+5YWVEOD6FC6dc2d4n2NBnUfAIMIXZk2gJ3bJA5gBd97oiGBANJtk+xpvDp3E7RnSaqXfKqCQqLY2H04R2oe6EoaA7n0UzZbyMJ6mW0C5uSNE9C6sxkWIYsKFJTzVQHbYIZ8M7NOMb5ycptCJ5NTqFvRD8a6zr0Akfu+SsgTKaoPR7QjQ07RmiTZEm+5NuARhTpWcGHpiKxUvJ1rukoQ+sDutfiqUS1O90CurZenPp1KLncwPt9niJnkJhGutcadhDDpGbB8CnBorE3P+Ho16atzTkBZYQtXGWXRzooZJkFJM="
-        },
-        {
-            "groupNumber": 3,
-            "videoId": "HLwFKMYC91U",
-            "topic": "Cargo Airship for wind turbine installations",
-            "location": "Lecture Hall C",
-            "slides": "U2FsdGVkX1+SmObGJTbZlOC9opXkDW+1hIsSRsiYVJKxtCWZUqRB6ioEmYGfvAE5Z8vFVd+FvsRnkaWk3MoTP1yuCBII1SG0pb3l6MRSb2lkRHx2CRJV7cgtIedMm7qGSj85cK5dw0g2OYOP7qVS31MEr2mLWGWJCLueK6RK6LT+sThhjXQs1kNDsBvepm7PvHdIlQPD4oqFIN5oqtzZnhhj9VmB7Odd43ik4zPZofIk0iU4wbPodoXYqQkBO/3hJO9bZF7Drdd47HRUE3A0uPDfZHLSY5VY6QPlN9069MLCtRJ5Ju5cGcIPmG+L0hzEeirChJeT/s5zKu+AvjukvzdWPdAKRz5weBxcRhs210Z3AomgHGAds2jt7KZyruu98pmErT4+xwXUdPe+CyKXJno7r3ksqGGsdUE7ejYqOw8="
-        },
-        {
-            "groupNumber": 4,
-            "videoId": "-haiiJQS-2c",
-            "topic": "Unmanned VTOL platform for off shore operations",
-            "location": "Lecture Hall C",
-            "slides": "U2FsdGVkX1+8hFbqAXAh3v33U93lIKw6i0UgtKxIX+UWN9OOje7TT5b9cKk+xl1Dtes2uuRVbFGK13xhgdhLuQSGUuDIUjLjMUgWhCsfvtK4zhgNZ8fFXICOZEOY0+fJHxl6hAkrV1BDotifIDvrou94KRyhWpoCX+1NyImnOD+5spjCd+Q8/eoxqVzXAXv5ZFBsu/qBDy5dYx5wCoupRMZMOV3sMQ9Y+tGkeTvqo58HdwPGmeEcbh1eQx4DzUL3bkYoX1zVK02ulYt8tS3Tj6mgQ67V35WEI6lE07np/RV4eG/Obxp0Y/RUWU2FY3/Jj2X52ammU3Fl5ZSt1A0h+KprpaqQCIqNeCoE0AgLoPTgb8OnHJpbwQevccoX/B7x5YGIIRBRd+aIn5p24wf/cQuiCBb8OG/a3wapVOkwwOQ="
-        },
-        {
-            "groupNumber": 5,
-            "videoId": "rSmFPsxiegk",
-            "topic": "WAVEWING - Integrated Airborne Wind and Wave Energy Converters",
-            "location": "Lecture Hall C",
-            "slides": "U2FsdGVkX1++4f/QTcyxnWUDfWuf4tdwFhK2fbmZWtMRUlC9Zvz7GaunA9Ys3oGatHn2WATysJgK+APznimWRyJy0Qwl7ufDNfSYSKUFd2vDubqIOhru3s+fy6VRJKyhX9B0cKFFYggaO4/Z4AerruhGZqd8zk2feiqGKtolMexruPQ33dceLvHzZcJk5/vzIrzYBUKzUkjHJO92XQW3dKCujIjlOmZNhyN7HJJ0ABRUpYx5mVYDenkEa5Kt0dnBH4xWOeaQ7Eqs38OBM+oQxm0F/76eEJHKU8BBLbiBQsjuXAu9+5lHa6f6B5+oBwKvHtNVS182smUFgvFjBs7e7Fb4aHdqm3qvQRWSZmac0w62P3ccrJPg5Y+M+O3vLACxmhP95wodi9KS1CSORgZp9cvXbx53Q9JIY/Fp66qIW0c="
-        },
-        {
-            "groupNumber": 6,
-            "videoId": "Qhlqy2MP6b0",
-            "topic": "Regenerative Wind Farming",
-            "location": "Lecture Hall C",
-            "slides": "U2FsdGVkX1/BZKcRRO5DSQ8cNDyAC0dCnvIOKIBqn4KprZB69xR6UoF8Kb5aJwKCmpCGUeLTZvWUPdVLZVSpOr+TN7D83uXyVHvGVlWyqMSFqPyIvFr5mwb6YM+O04b23uCPhynLi5gtfEyUQ6CYXMbDE//Asc8UYK9V2QFaGi8y4pE1cNUPCXx7HYyb5d67HTwHKqAXAtlzL5iv02tRVPj/ZJocZZDz1KHq168HNMOZ5LXxOPxAnZjEy9DY2bGEjqfW7LudYauAtMl2gTMUfo/cRlT0k6TTkQBxBMoLwz68JCniqQD/8IP05s32fjiw5yvAmrKqx5fmV/mmN5Th3WIOyTNKv1RTgRABuYSnrqPtWWfnHs1G6/mCu4eS3HyBeWEpZrAI8SIAQcWklVx2yeWfB3N1SI+sTvtD2Ut1yz0="
-        },
-        {
-            "groupNumber": 7,
-            "videoId": "UexXZQSabMk",
-            "topic": "Low-emissions take- off and landing procedure for UAM",
-            "location": "Lecture Hall A",
-            "slides": "U2FsdGVkX1+96D9AP7feZKJjCAPujNoHqSwh3L+3Y7sECwTfaxLTxtlbbwNcqPsYB5jOpRG/jqOh56Cwi08VMW9emH7ZTlLE3nASW9WrWKR1o7lZWdPJY4kBqBNXvxhAIjKH34ZRlNGuCKJIJYZuIwCrEPcY9se/8UrA+WFhJWiCdvD5tGIuK8QpkMtsCg47BqLlr+pjRZ5Iw+U2rbXBUp/O2JhpuulI7R8AhnpzjAwIxl7NnW4G6kLhQ9LdZpuMvNulFyB12NhtUlA4kXPFU5uajRvVmr7YZdQHZ5hrMcOnG3CcqjHTYmhwUJVn+CdCO5qfCwgCO36qOxAS/Vh9+I5fcnefyjQKyQFl9w94Vt+IBMp5v5rAYRrYEQynN7oeZXIN0Rrlpw6923h2pBpyJqVhSCZChTChbQOwFXEwK6k="
-        },
-        {
-            "groupNumber": 8,
-            "videoId": "Iip8UEn-GKI",
-            "topic": "Sustainable glider tow craft",
-            "location": "Lecture Hall A",
-            "slides": "U2FsdGVkX18Aq9J7mi728c9ooyRaVxUBXbznRoQSHEZubvtQ3ywKfcAaNp/HuJmaoYGfdBzCXaRrJqlVsqmFn0Uwb6CkcR/oGofw86bfeXinwYPwlgVGNOHINmZDDpP1uKD56M/DGdXwyG3wmSCYLTbmfQbmiY5oSb5mbxt32SDokgs7maicTjk4OOHpIKfPxZipqm1WotOvMYGNLPx6IDzJUIqwMqLD2zcZlUFJP0T1HOQuokaYDpJb0vO+ZL2L9ApNwCclhIkPoaBW+j0+iQunn0bONb2bgE9bM9aSuCiNXnWN7WakiVTKYdKXOx772HgfJ1zeaeqbJK1PWh5UPlUbHLvZrwnUkaQQZgZbMrGtZKRqL5dbluMtPOx4oP+K0EqpPypWun8mYPEyzYMxDSTL9wGQZqcdo85+FKav4f8="
-        },
-        {
-            "groupNumber": 9,
-            "videoId": "A-lDJ7J5BTM",
-            "topic": "Airborne Minesweeper",
-            "location": "Lecture Hall D",
-            "slides": "U2FsdGVkX18OpXhtLr57MEN+JGGAff2SF7+E0j2reCMj3iB9LmnHp7CJhdjR1wUk69plMc0P7TVSLhVhAA+cpRJAgW53VFtyMDuY1fToiKQAz8AVXgnu6rDOry5p3AUWTbF50qLvce9Q7jaaLCo35iJd0Jrz82nO7+3lcHjAGpHBxBCWT2JMC9iecUGr5C/w9soc41VjSmJRjX0OUMp6NcQoyHrG6FLfs8eQ5Xwzc03X7WOqj/NJmk16fNleB9VyAVBmlLki5AjnmRffKLz2ZVUwg4WhUgOAPGoZUIkc5GqqnlBGO5OMi2xlfe3vvqiEHG3d4ZpUNfgeWI71Tjr9ECua5/7myCYRhR0HrAgEyW1+wLV9BUPcyDa5tlLpe2PgcochdLsXRjO8LO0914HHhWREKErL1scETI3Q3c4+akU="
-        },
-        {
-            "groupNumber": 10,
-            "videoId": "0U4rfXM0VJk",
-            "topic": "FLOWS",
-            "location": "Lecture Hall K",
-            "slides": "U2FsdGVkX1+7EagUbVH/1G/GPuM3WabgqL192jsZGdBSozw2ASqg8lfCKTS2e8ez8GNTgEeipF61wJANYEizgGcshJmijM+iOyEifgQA4uf4j348DRJL4YUEO9xm+qKYTHhejHCKJitQV/5Mr5Ci6SESwFy2UozPTbI3YoUuW7IK4O/EFgnsNUgWSRvvDCPgTtDd4doo7FE9bQvuQqlhSr2u6l75rmisr1uCkO3JE6zU7T9S6T1506SIRYQEpcgmdjJKSsekvmbY+AA+k7/IXLJX28C68SgqZAssK667oIXlWM2/1IKwNHbAkUBO2nyZ9zvbRUS6YDEb4HF5LaqJjAs75osNBqZPXPGVs0Q9zxvqNdX8bZ6J3HWvI3GUj1oNkg2KDQ5Oo89g8QvliMNq5/jotCAeKxLsUPhNBMkBVhQ="
-        },
-        {
-            "groupNumber": 11,
-            "videoId": "3u9kEpSoJNA",
-            "topic": "Pentefoiling",
-            "location": "Lecture Hall D",
-            "slides": "U2FsdGVkX1+ClABnFrQ8u6LGw4UKZCsH4/Dd7z0Ats2MwW9x1bVIk38lau1rKqfXnPDj2FYNW39YALJG9BYGJ63A0i0CnSswNX2agAy9r2485Gnecl9AG58k3OcYuPqEXg9JaKTtNxlOaR+0IWsqoZ3eQ/W9wMBh4Z3iKjeEudbPzkPjvQdLtWwRrO17b10O8vZEIK8kcsKKZ6VynD04Kt2HsEXlijchduIIBOLCHvXjQgz03FIib3N7MAmp1PKgpBvUBRFbNDykMDZYXLdcSSvWfXJBzKafwh+rzlkxsi/GruwpO7pKfJem73N7WHuHkBm6UV/BZnjJo29LqlBQuw4y5LM26UYOOpTHBbJtkdyflieb8TABDTpz5Gfu/Mn7g0Y1Qp5wVQJUANaoKHNwgBWb/WDKcXooh9syz0IswAI="
-        },
-        {
-            "groupNumber": 12,
-            "videoId": "NBA2C0rwvsY",
-            "topic": "Wildfire Drone Swarm",
-            "location": "Lecture Hall D",
-            "slides": "U2FsdGVkX18jKPiUabWqVMEbvM7G/IH2Hg0CwBsvbMV4b9P7ck9wZpeyZrf58y5atk4lzkcKzQVz+91nu5OpuXeThoI1piESl+qT+bPElCyJ5tV2z8Y+mvnXsLRBiNw47114pGob661vipXLhU+OR3vD5l3loABtHSdnBDYXTLbI+Dabl/lSEVPRy+jYWCpz2lD5TKBgoYH/qwMbaAmBN3qJ79KR0TwDKLBJVUxDCoUWtHHvtyGcSlyRRQQHrrvR69P2iWGQmsOAa+B8dALk4Z1R8IWdRZi4FuJZHuh11zz/H7SoO/hxYfa6KtcOAIVFnukqUqFm7sDM4CBBh+9svriHOJ5IkjcnPejQ7+zBSdPFlMu0sBohZfGLZSxWASYpOQg2mAPpK6DbAtWImMYvJKV1V594t9VbLzfepEf68O4="
-        },
-        {
-            "groupNumber": 13,
-            "videoId": "iiK_dZEVg90",
-            "topic": "Multi-role VTOL Aerial Firefighting Aircraft",
-            "location": "Lecture Hall D",
-            "slides": "U2FsdGVkX19yngKIPH/QM3+ZglGrrqDcRhKPULywXYuTK+rTiO5ZXa0FltcdCcKMoka3YKW0SRUz0yJ7HTbWNUpqF5e6lENm9gzn82rcpXlVKz9EIpZAOWMtuYOH9EtgZJ7nv8GMnifPTc0RAydrSU6rD2yasODNWCFAO62lQsXU/EKT/jXqMcLzOOhm7BRHZ/TynASCd3HBlDS7Bf649XImRBMVdiYRqfOVRDEowRpXbygNMXswX5K0Bp+/jikuSr7VvSNu65c71teh2gTy/v2tNjnvQU+EwP5BjCbo0OPbPp3I1029D5YL5cOKseS0MpYjWJMf9cTtuaTy7uDMnYB+NuizmGpZVDfTE4JqTeLUN/+IVJyIwgkC5xyWX/YCryFvgcUJFyrIt59IvWChYhrChzJr82AIiCE9UttA6e4="
-        },
-        {
-            "groupNumber": 14,
-            "videoId": "XEXGdBb7bYI",
-            "topic": "Multi-role VTOL Aerial Firefighting Aircraft",
-            "location": "Lecture Hall D",
-            "slides": "U2FsdGVkX1+YAB5mxmp9taB7n2Nmj6UzZQoB6+qPLwWGhAXEAW7eYwVRO+E6N3QT9xJCMG6AQutTVr2ovFUf18QuOqUyJEEkMeOafsCkw7QezAvxrpvq0NJFluDVFFS8WhV4CulEQzO2OZIjX4C3aCWGy79pSJgfoqJ4tXy3v+Frs/MkRIwXS/1PpTPJKtQOfaOKh1Jubv7T+ZjIuy1BWJdF3w66fOzXEmzV00Ceg/BQe5XLbat42Qvw3tgUieaDvSNgBLfwddi18lewj0I6IUhOGxf9XShj8IxSRmAzemI8YfkzUpbwOwJa7fyPGJqi2SwBLIKbpbO4Am4zfCUJJGmjcFB40rV2IZMSGXzI2U1u8ZOWZYd3VYqswdt/1f2a9kwy/4KV4wz2o+isBUAOk02bn79tUw+ij30Yi1XaHF4="
-        },
-        {
-            "groupNumber": 15,
-            "videoId": "y-eUhKiGV4E",
-            "topic": "Humanair",
-            "location": "Lecture Hall C",
-            "slides": "U2FsdGVkX1+bfh2ZTZ7SAL4ovD6io8EhDlI7OpXr7V2WVsPvn0ozBZMbUdiSLHIM8R2+jkPvsJQtUdggHC2vRhJ9MDZR/D1pu+SXGm+dzEJxwz/Mm3wfC8JM2f76b0+v5ldyMjK9jHdwfBU1dBOqzzAarsbHytiE5DOatwzr4mA8cZjBn+tW/CXym9aIU3jx6RInfQNhGXy8LPJCCxGqSX9K7NNTBS4i9diFTVj+qZwvQZZxCrvmzTqRNEAlBitu2ybmbjiwGelIfVrFLgsHh9h3J8Ld5HGiVwD7K0J4H4LOHYTJNqtPX9btjiu+RF6nw/T++U7qh5/AFbvX8OCZKxnh768jbrRErCFc+2OCsmfvqY2aIGyNNnUKV7YQhznY67E6jyGFbYAkG7d/czEFC3SzFVHmGRpOjvVB6PPlYVk="
-        },
-        {
-            "groupNumber": 16,
-            "videoId": "tkyh8XGNwaA",
-            "topic": "WUAV",
-            "location": "Lecture Hall K",
-            "slides": "U2FsdGVkX199IC8n0kYyZyWk71vuWuZFyVWs64FH5TV6ApHN0M1nxPXJ+Wfaxa8dJRsLL1P1j6bJ90zA88uLWngDD67FEcDCM5ks4Sgkkd2jbt+4UeJ2QP823hJhyohRuvOBGGGSyFnx7lA6JORcaL7kRp6Wzs7LmIkzk1bQvB4ajeKBKoRN3K47ccjUG43oFzxnecAhw+eLrWl3wvKYm3fqruEappW9H02WGX812egml9tZl95dP/KXkKjqMeC8XeTEq4FUBGX9qjIWHPSRPQLv4U1P8HXhiFtjLqp0GnumKW6Jhua3C1KZa8cZkRHJBn98VEz3FZGS9WIVVcBVsognZUW/bOOXeQRtSgIROwOEGWLyYRTAb8giVoMLIOS+E5Mls+4gIZ1E87XB1ge+eeHigzmmOtuAlMpmjZYxOd8="
-        },
-        {
-            "groupNumber": 17,
-            "videoId": "EpnJzzKw1XU",
-            "topic": "Functional strandbeest structures from recycled wind blades",
-            "location": "Lecture Hall C",
-            "slides": "U2FsdGVkX1/PPzuu+HQjt1LWkipFifn7UL/cLai2hAvameHZtNpb/qnR2g03Fut8Z0eAyl6UCJJR7KFML9gflgGn5MpiG3U4SRA0kW+TchP03QfCwUNeTQz4nEDIr2+ah4uRXVLZiqz661PRKIddIg5zeH5r74MBQkpxDqM2Ga0N1GHhCRaBUlS1x5N6BeBbc9AXOL9pf8/TJVGt/3+FaCndUbUTkcRHLdPyYRL7LpDAYL1Yj+AccJydsMq717o9qoVI6ma5YpTTq7XhuRZpFJfDzjADcz390xwkDOkh3XLpguHa9SBR/ypaLBrKiMpKA553EnB6G0gRzafArHDyKRLqg8fKLOl/iU3WX0OzadXdPJiPO4PMeZ7X2R/thaywL0j732fjHbzVNx3Jb9xEOuM5oI6+Np7A87HWQQYBY18="
-        },
-        {
-            "groupNumber": 18,
-            "videoId": "Tkz7NyqBass",
-            "topic": "Lunar Buggy",
-            "location": "Lecture Hall B",
-            "slides": "U2FsdGVkX18i7ws1nvup9RLNVFRSrRLdcMX857fQYc9N/JIEvlYle20LcTx6jsF9wTj6mQneBaR/ug6YYdqpseoZPEcT67k3dd9eNNV300ANoOVRi2O93b2oirM4Ov35yqpKpq+q+E5p9m0MnVTpDJPBev9hiRxs1+V5tZpE+HnYo+pSoG4hc6kj1KhpeFs/e1m/p7EEMLUHdgC9HkO8ELWfBkmgs3WPF9U/Ss4sV35Bjgh65hZH/JGc27hrxTB53SHxbOzYQ2Q0sxdrtP71AuR8elCxzSD7uS+FyRxuTKtROH0iTIB7wVwhojfbWH1nGBhZNeL1o7+Y4pgXXVxaVdJfBPCEm48ALpgqncupSYoEh/RA+JWW53DrNdZRcuUimm0Qri+LtJMrsx6SMisuDXPT5q1s7y6uKyQEnYFW9xg="
-        },
-        {
-            "groupNumber": 19,
-            "videoId": "rGkdJKT0qXE",
-            "topic": "Electric General Aviation Aircraft",
-            "location": "Lecture Hall A",
-            "slides": "U2FsdGVkX1/03xbhwgmLnKs7M9hgjZiAOeh9Oc8AKgVDnlc37B1eWsg1JZogb/71/jzUhlt1hn6zTvu17xQRpTMUHcos6N7BfgRY9PDqBgIE7TQCRT52Chxf3fyIjnJ23Y+ygh8GIlbp8F1RO3mDSwUOc/nOOr4Km87bE7yvCLg654RMAKY52eav1sKyDSWvBl+F1M2TLaKdACrOPNlSNSiNhtBdkLFEJiuUg5nhv94x/8br09vVQZs6sWVyv/8zeOT3qKs4pmhGEd9VUofG27C4J33VsUTeI1uVSX9LLBgaGpKaDjMrdng6/4QY++xvYfPaqQqntdZNmmfh6JTxiZEn1l1/ivVC58VF8yM3Jk7G+P5v7M5iByoY52CI1Az9O7VrCIaycf7RLXalfdTYkhZqgKnXqoUtS7fz/LIACpI="
-        },
-        {
-            "groupNumber": 20,
-            "videoId": "bFnswETMwF4",
-            "topic": "MARS LOX_LCO",
-            "location": "Lecture Hall B",
-            "slides": "U2FsdGVkX1/qhPFiqzYmfpRcSGsNHyTpfnQvpy2T3/fppQQgv+3OrkYKBvPhCsJ2S/SRreGDEOYjm+WWp3MRVAZA8opM7p6xi7jHPY4qIrg2XPFLcEd0Y4IYYPF519aYExN8j7FkXXEWpU0fcmCdGeBcD9ED9bxkU+rsYl90J30agEVVR2O6kvA1d/1px4GzK4/MoxFOrTJfUVjo9qfFVI2j4v186Zb3+H/KPanWjRF6EBMR4Kkw4OUzRKvupqRK9QZcsV5lX/s4eBZfeMgH6hsvnYhGbpQKBUJm4YTSyT2Ox1VxROJV9x+8r2YzhQ/5hV+Mz/pPw92ivRfKVWvKBlWpwHSkfnZMLzJOJA4FLw0uXK+kouZPBdTYcJWL+64RCg9rkSBzABB+5Z6ELNxb0VSI9bBGarNwRMMIljllLmI="
-        },
-        {
-            "groupNumber": 21,
-            "videoId": "paps9FAccs8",
-            "topic": "Moon 2030 - a New Hope",
-            "location": "Lecture Hall B",
-            "slides": "U2FsdGVkX18Ebgvqnk/W1h3pWQhC0RfSk3vgVY3tpkNQTwUfp+Fw2xDk+TekN/x4Pxg0aUiXTRSmVx/tsU4hi2GJvCNI8IrZbYpt3M2gG5f5kv37lrXKsq3nzlAj/4cyOsdAqiUOmX+KwBZgvY1uHsBjqCSPRlqA+hl15ZWTps3f59fKV5f7IlPFa5Cp8BWekYutM/tvmdt+CUJ/ipRDmS0RJ+Vc5VKfoINgO7C/Q9ktRJjbqkDI/GArulx63zJjviZhYxtFMM4+5hHfIeRcOvty7nGr5AkaBaXD0OJo+KHziGgIt9vuZBApdQtAGIlkf/GZmKAbAOuj1fi8iU1prUt47YSYNMZ5hReOnN7+8hfMGPfcbWyBM0WwpT3X/KgSZP5XjxqIqN/oNUAP3xTzZ0FOJgCJCMDdH+4e2mk72aI="
-        },
-        {
-            "groupNumber": 22,
-            "videoId": "VaDbvZq5LeM",
-            "topic": "Breaking Barriers",
-            "location": "Lecture Hall K",
-            "slides": "U2FsdGVkX19lTNdrZPEmTyTQzBq4pK9oc0Qh2BkIzZfOPwpaPxECVbvA22a60/C5oDn1DoW7K9oi2KuaxGl8UrrjgFvTLpaCPceU/q9UPY3SiiwR8LKDp9uFv7sh3Fonu+leNz9NA1efp2ss8jF4T1u10qVyxIxZ3JG2FBntLSVZ7od4o2ATipF/9LfZCB/dlavuXXUuxJybMOk9if/uBUOIR6wtQMwVvNfSvRSVvllYyiiXHXLQES4FXdkonK1vRuszhXEMALYDo1JYlHtpL8v1sjgBJwQP9QJbUA2fmpg/CKJXiQAjizlcBxS0hoNSPEqWmn5/3f5tfkEwPOyeQs6V7QZTYrt+L1joCsjoyLyrkmh+4YoXkMClSaDk1rYjS/FPu8FQgovmISIcA2wifAxSaiqs55HF3X47phaYSyE="
-        },
-        {
-            "groupNumber": 23,
-            "videoId": "txhbqivrWUI",
-            "topic": "Asteroid Mapping and Sample Retrieving Mission",
-            "location": "Lecture Hall B",
-            "slides": "U2FsdGVkX1/2DwVTJC1guyYwe48wiIka05ijYr4FGE6+nBCBddzII/6Y4cAAJ16canQczs6xKStL2VJq+ppehbfhT0E26eDc4Ynd6MmADiCOe1/CDbr5FBvPDFEIXdod1kWZFDF1JuMFcJqi3iMjha9OgjdVKD6jz4I6Iz/Z313LjnWRxeK5IthQ0c7SGT4JOIIVddnvNmbGRLHMzrFRGSB/yg/zmAHiwMM6XsefUpoVLulXflbaL9qLsSmvAxVhIg0C2QCoZz04nvttbej9mgLOMmwjOAwe9Npp4nsj2S8ltvLVc9Gw8Dcw/OucTnrbzcX+dFkvgcOe01FRafzuPmO3o51UVeXbi8lIDEfuKT6nwo9ydl2qYR0jvvqKnupIDEOI8ZkAlKEDZ1hguW/g7eoKA8rUp4CHNNpDmrVQaUQ="
-        },
-        {
-            "groupNumber": 24,
-            "videoId": "Ndh5avUYHxk",
-            "topic": "AlienDive",
-            "location": "Lecture Hall B",
-            "slides": "U2FsdGVkX1+xkc1S9G3AAcPEcdszwajjhOXZ+J/9v5uXBwuSUzkZNa+fzjsk68juW2xPZ57oirCQEc48/vHiWGGAFKb3EpVlh30B9nnOwkW0bUOREcJl/PamnChd3YHqhm527TrxpmIb+uvxvD0fjAikonYqWz/s1CbAhUzJk6qWrv/3DtLnIB5RkN5a/HvrI/DhMHqFbNU0bpjHcuc6O6J23Lu3lFhkIgLH02IgvS2+I6Sgh/3VNf9yeXV/jwOXGJiFgnBR68M8CXTZaPQ4QAa0H+UvrTQWUibGqaUUPaZXBb/9oFLA7BR/8lggZY1L5J4XZbLIgBmjdaVjl3Zlgp9G1mKaHkTNQY/tfS7oeDElZ4wPCoBq6tNCm57NQYO8B9iTM/fJ+7td3UsCeSkSV0Kyj9V2Qq9+iALIxqLD2Z4="
-        },
-        {
-            "groupNumber": 25,
-            "videoId": "z0ktqR_LZ7s",
-            "topic": "A first look at planet 9",
-            "location": "Lecture Hall B",
-            "slides": "U2FsdGVkX1++CHbFaSnGHvbl05n/spnOSi9dQ9Umin59foWE8Ooby0MAFXf21YuzI+jYEhSvco7FBZlS0rXr6xSfW+GUjCHyU0gCsj3DYCIERX6YlvAtOdJp+KL1XXznXUXl2EWA3yzqGKadbXApysVYyS8Zo1qjN6eC/bm71GG61I1y81yhMNfOnNtXVpFeFu8nojzwmmMXTHUpYD04g05sa4aztXVvmBhIe/y+ECtXRajFsa/7/VynX+3YoZBTV0gh1TE+qkCDu+uPQWJzYnM5DU11+fIbiKq/rCM/Z5MpMp4tlcwIn7W2fiTZ+XwX+6Fbm9mjU6xUFjIUsoEJJxkM9nWpLrVbEddOiETv23Oj9qpxbEdZ2jN5cmiILp/qaSlRWsQdts8KRP2qu2bbAnhlHbDPqZxrfWqbVSf4NjA="
-        },
-        {
-            "groupNumber": 26,
-            "videoId": "R1L7x3xomMo",
-            "topic": "E-Racer",
-            "location": "Lecture Hall K",
-            "slides": "U2FsdGVkX194y3VoWFFF13OwiAnNK0lJGRiFJsoXm3IfiFYCGl72OEt3CGlWmgw3xRUr7szbgA93uiYOyh6m3mwtNLK5dDPT8/0bB3ZvBNjPiC2zQUV0CNZIB1b0A05bL/P6WKeD1NxHVPe8kTQtiIuoHHuKKp7Mo8qotOpD2wN9c/uie7ekTKc30DFKI0AUpC0ArBZV8qzArX4CGBnm1YcSLR/q/DleLLTHAcMN2f0jbd3/7WJf6049EtlHYtSWHmrKNoAtsEP3ntG5Hfeg5pGV0/TUDUIslRlGK1YKZ73pnB8VQLEcYdIOo8PqFBY5mZKrr72iDdPiRoFCL5zXnj90SwucjfvUSnoU0zNbWSXj8SZwIqcjTfeGNGH2El+n0ibgiY4JwmQXVkKqhZvc9TxwHUKZZeFmdyTxznXfXwU="
-        },
-        {
-            "groupNumber": 27,
-            "videoId": "BaodQkxV2x0",
-            "topic": "Energy efficient aircraft",
-            "location": "Lecture Hall A",
-            "slides": "U2FsdGVkX1/OOPHhtx1+aaANB8y4uMnhcSu9Kp9oQg2l/RxuF4eKRC0UUNfCO5zi9yKGQmbISJkXoJxKK1JNGLKfDjDq8FSp+i69DD1oc0K2Va6w+gvFt3G4ieXi1UQGzOn24MD60yLGfOL9c94PuR9DpGu41WaxRp4jzIZxr+JgcOfD5uBr5ihHtso7G2jGLU87SJpl12xpUAhOyiZUSm9czB5Rt71vgciJQIsigqjYkqDw/hiPIH3JYXgTAp6Yg1sbjf4FbjyIAq1b/rKKJ+QRS/gmtuaW2Pj8FLrR39aJVLQ6tkZbWdMjlZ6OlYvBnFtGY5//qemo8ImX96QmIsU4M0BLNHElpwx+3wMyGPXGnLRZFIgopVWXXVutAP8+givY/3DUcfJzc2QwU6j+XuMGe0z7ezVUOxS2y7K9IzI="
-        },
-        {
-            "groupNumber": 28,
-            "videoId": "a7M0ZRh_26M",
-            "topic": "GoAERO",
-            "location": "Lecture Hall A",
-            "slides": "U2FsdGVkX1/TmzjD51Zwl2IsYHeWvYfivo0LzuPJYhsQ3tOI4tHEsc914o1QX984c9juLKeRj6yVj1f019KbnnhCe7FP6/ZCsDmu6SBRI/9Q21Tj1cscKGxWw1ay47s1cuIXiPCB+dfRo0Q8y672g6AKj8cAIRjuyaatscXlSeQIRWdCh73VtCHRygHFBKeWPC+4ZKYmh6jj4OW8sK6byMRf/CydEm+ZXSfzk0jnQqfkqj2it4bQYinOKnCmjNrs9Lajda7HYTZnzWjkJ8dv0ZxVe5zvCBViFPBpyW445dRAfoncpY35PFo7+M56XwJibEPyQqumfz9HpBv3uJit+beEjExCq2hiPxoxBT8aAN/AUxc5NM4CwATuOd3bAs2UyrH2FNdvDY80KLjJvEHSPhee98Gv0gnTmaMOa2KrbS0="
-        },
-        {
-            "groupNumber": 29,
-            "videoId": "WIpRk8X5sW8",
-            "topic": "Environmental impact reduction through aircraft design",
-            "location": "Lecture Hall A",
-            "slides": "U2FsdGVkX181enQ9geJD+XMbU1zfq327hCKeaV99ug7fdNJZCiEkplNrjtJFwD8Z4iaakbZJvc+aOWOmnGdT4XlfLq1ugADdHaJ67wMFtu1kuYp59r11Mg991IFx2RIHH6V1vhpw/jJEh9VXzTFPqsuezh7Vk9lYs+iSmBa9LwWI3R7v6Ix1SWf8n+OvrEGxgieuOEuZsC1BzlfqE73hxkxXwciDea4Anw1zErzMRQOYSbKYNSXTNqQD2rMHDf6ca52sjwtAic/2Lldh4IgYO9iNkebnvj46LGbe98kApFtazDTXPWthsGgZtL3UIy2fk5h9zuBWfws9t47Uw8lP3lhEkh38C1+U18szL36RZSb6norOxfaRXuCjKFKcKtkd0vV3chceL6QYBIUcSMsZ7BOCpKgJ4t3PWReDPe11m2s="
-        },
-        {
-            "groupNumber": 30,
-            "videoId": "RmA7V67lB_Q",
-            "topic": "Cargonaut: a crew of drones searching for golden boxes",
-            "location": "Lecture Hall K",
-            "slides": "U2FsdGVkX1+AmcsTWxCGpe/IMh9pblIzrPhMy6pRwA+/9emkZjJcTexjEIEjC3YvsAyU2bJTyxukjTCxX/4IAFrYygDiaBv2e+dxVw4/YzZLzN7rcy3OuyyqRaEwHU2pc+Xs/xvXXJ1OG0v9dwoIz9egRXlEMg8r6Dc5No3bUrtYIwOLCZNDYgYzvFG+YoUzzB9vVaQD59xg4HvMabwuKhm94I0IAkC8E7tHuAQil3YcdWqF2QMp023tmvllhjaW2E2k+xqMkDx09BrS2rAkllG4R/zcBmVbRMiHVVy/s38P+yTSKZwEdIxy8MK0bdqHjcFbuib8tfhk6LT9yN821IzY5YeWh6ICy0B+JG7m0PNIKgM2Qfb0iL5ga/Q2Jx3Q59ASzDyYvWWuU0VyhFwdQpTW7RBUY0ZTQ/jXHXABH/A="
-        },
-        {
-            "groupNumber": 31,
-            "videoId": "htQWGPp-QQk",
-            "topic": "Extra graduates",
-            "location": "Lecture Hall A",
-            "slides": "U2FsdGVkX1/ukVaywVq/fUXYWveR2lGfSfPQWj7QFwiVxMjhNHD9qHtryCi/NLeVjXATr9FNcoWB8BYEr3vlUVEOuEQvXOeo9RohQl7R1mhgqmGFcppSuNmECMGMt8cANPjPytexyUgkt7eryVY55CcYpQZutfBH6pKjSP7EkANjL1r4M4AHnHj77bbyr+8G8jD1Mn+yMqaq7R+8ddKwNiV8Ah2P7HnFC4Sgi1q/4m+B183YgAQ64aNTyYmcXm44fVC64LZqxZpm8vVEq3lrvC/wlEv2L6a0IFYupfWN74HhmtzkTgN3TuBi33VZO6keFhkKrjwu6XevMAkECJY/XKEAnAgYz67m4NkNJNVcyZx2ks4ekNm7aKN9E/OeNL5Q+PQi9TBSNBNqaqpc4psi9JvFWo/Vh/APVrvSFim/zE8="
-        }
-    ],
-    "timeSlots": [
-        {
-            "time": "09:30 \u2014 10:30",
-            "starting": "2024-06-28T09:30:00+02:00",
-            "ending": "2024-06-28T10:30:00+02:00",
-            "groups": [
-                19,
-                23,
-                5,
-                1,
-                22
-            ]
-        },
-        {
-            "time": "10:30 \u2014 11:30",
-            "starting": "2024-06-28T10:30:00+02:00",
-            "ending": "2024-06-28T11:30:00+02:00",
-            "groups": [
-                28,
-                18,
-                15,
-                11,
-                2
-            ]
-        },
-        {
-            "time": "11:30 \u2014 12:30",
-            "starting": "2024-06-28T11:30:00+02:00",
-            "ending": "2024-06-28T12:30:00+02:00",
-            "groups": [
-                29,
-                21,
-                17,
-                9,
-                16
-            ]
-        },
-        {
-            "time": "13:30 \u2014 14:30",
-            "starting": "2024-06-28T13:30:00+02:00",
-            "ending": "2024-06-28T14:30:00+02:00",
-            "groups": [
-                7,
-                20,
-                6,
-                13,
-                30
-            ]
-        },
-        {
-            "time": "14:30 \u2014 15:30",
-            "starting": "2024-06-28T14:30:00+02:00",
-            "ending": "2024-06-28T15:30:00+02:00",
-            "groups": [
-                8,
-                25,
-                3,
-                14,
-                10
-            ]
-        },
-        {
-            "time": "15:30 \u2014 16:30",
-            "starting": "2024-06-28T15:30:00+02:00",
-            "ending": "2024-06-28T16:30:00+02:00",
-            "groups": [
-                27,
-                24,
-                4,
-                12,
-                26
-            ]
-        },
-        {
-            "time": "16:30 \u2014 16:45",
-            "starting": "2024-06-28T16:30:00+02:00",
-            "ending": "2024-06-28T16:45:00+02:00",
-            "groups": [
-                31
-            ]
-        }
-    ],
-    "rooms": [
-        {
-            "name": "Lecture Hall A",
-            "location": "A",
-            "chair": "ir. Joris Melkert"
-        },
-        {
-            "name": "Lecture Hall B",
-            "location": "B",
-            "chair": "dr.ir Erwin Mooij"
-        },
-        {
-            "name": "Lecture Hall C",
-            "location": "C",
-            "chair": "prof.dr.ir. Carlos Ferreira"
-        },
-        {
-            "name": "Lecture Hall D",
-            "location": "D",
-            "chair": "dr. Marilena Pavel"
-        },
-        {
-            "name": "Lecture Hall K",
-            "location": "K",
-            "chair": "dr. Jian Guo"
-        }
-    ]
+  "youtubeLinks": [
+      {
+          "groupNumber": 1,
+          "videoId": "6SAd_WvuXhg",
+          "topic": "Transwing E-Vtol",
+          "location": "Lecture Hall D",
+          "slides": "U2FsdGVkX1/6AsVqpE2VhVGNHZQY6Jn5XII/PpPOpzLuj+riWDfih760xB2cvYWHR5vG3rCmyj3yeeNokcev9LS/Gg5Dz/pPk66bsaKkcrC0WMvI6m0ssyJ3Pbp6REQnpLlgkrNj3GHKmhWpExlrxrOxf647xMyGy3rXhPKxC5kDS1CtTdKyywJSDvYmLwnplXz6URwjAFzF53YLlQno0S9j6CsP3kODrYtPX3eOJ4kHA0WId9mGXPEIYaVPdFpJkBE8HmnFrG6A2hbYR9H9WJQRttKeckb9JmG2/8u0wasiwscmeJBSaR/OSG3g39J1FArP1AIhqhDWsEs6/eItuIgcd+BGofFf7EkO+ivTVG5YR+ECNd6y+zqoXo7XJhh02J8fFFirKrhTNtLaMUSq+4RcdoePzDcRA3jHwvVEH0o="
+      },
+      {
+          "groupNumber": 2,
+          "videoId": "SII1zDvUlyE",
+          "topic": "Martian Drone",
+          "location": "Lecture Hall K",
+          "slides": "U2FsdGVkX1/yGgw7SZJX+9ywESZlkdIbdPfcYY4VU1IIRjNTD3p32jO0kynKDDx1UDwBkwT+6Dpb91Tql9fTYuTLV3VttCNzFegpjb9GEQrRfyAzR9QU+FjiZ21q3N2EtMBxWxdwt2tpk6zFd9dCHKWo27bhvIMdwjTeQiGGcwji0uDWvJH4AYJtycQcVMj0dhEbPzsy46CLfS6Xff8x+0ErZeOaY3vErYerrXjErE+02OqoNrywpn5Jv3rUkX7bmoe5xeynobtffeBQ4G2HN8jNnam/z2g0UUjebxDHN+Ey619pifJ32U6RSlSRGGXdyGP6lCf2k4H5NyPquvQxfVnLCp5h0L4c3qqmkl6GNrPZh2yEdzQMRRwbYTF8bAViIJFLD6n5LImWfORMNtZjtEgIujUJhKbldbKIGxG5qcE="
+      },
+      {
+          "groupNumber": 3,
+          "videoId": "HLwFKMYC91U",
+          "topic": "Cargo Airship for wind turbine installations",
+          "location": "Lecture Hall C",
+          "slides": "U2FsdGVkX18BCpwV8ba3IQ/two5G9VAwyHamVtoPrTXM75LeGfWpAMio/rl3z2j/okglzM6xVnSkz0GCjDF13hgd0xYj5Ut+/FhFxRXWoHnL9uGr1U4jP3/BW4/BgbO75bRyw/0BR+IW3Q6LvF/7VrHTHHnWSf6bpJhI/sR9z44mc8cJ+0aPvfs4jml6ydxb9WFtfR25mTz4ZWG8NQTB8PJXMlDlpec10gxvUa+kqQOsoCdA7yPaYYOfxAriGzINvMheR+SLNPOH7zvfV80J5Unx6MBxcqe0V4jdqO3kMUynK7ekW1G8lNdhLx0uv7jdNtKhj5i9+5BvJp5OEbIQU3P6ToWa4dZkUyY9iyvXkg3MeTaPLtK9BLZBXpO0WyNYerbhP5rtmOn0cNX0p4WzMU/K45pPeNPTn7g3iaEzoco="
+      },
+      {
+          "groupNumber": 4,
+          "videoId": "-haiiJQS-2c",
+          "topic": "Unmanned VTOL platform for off shore operations",
+          "location": "Lecture Hall C",
+          "slides": "U2FsdGVkX18ZGMTJZPAfyfLfSZwODstrU38SfTB714P6+iLpQg1n3JVmh0n3RTHLNzVDH3GwA16YKEUYdEMzGPw7S2sZyzZOJKuzh8ixPMg0zS0dfsJefFbgK4jVu/1eDaFweueC2Ql7+spW/nndohkrsQaMyE3ZN+EsDOSx0/u7pIQDITbX3Kepk3GIkW30etBLUBmJyNu0LVS+JYwMfkeFDLQiyIuBl0fWYWoDWS2tBRyPKWprEF2RXdMdq79oupXbQRAF8eywFx0HHsE9/hu9lW3Zz+E7KtPfUxC39giU/cY43Stg15K2xq+iNJcV9ACJu9D0+8Bt/ACs7pYJBB1fDHtpGFM3uBslCbgkbl74b4HhxrGRPCRg8pzd+hSkbp8eQ1LfAEGPPJaCMAD1/g44EcfgFBrK5l9SeLpIA+8="
+      },
+      {
+          "groupNumber": 5,
+          "videoId": "rSmFPsxiegk",
+          "topic": "WAVEWING - Integrated Airborne Wind and Wave Energy Converters",
+          "location": "Lecture Hall C",
+          "slides": "U2FsdGVkX19rXXztYwu6z8WwYEd9qsMy2F/sYkfOBI3RHAhPt8GYKV67mlaC/4J/Zw9jUJLUow/9uopDUoa9IAG5n38MhFR15ICq2AUtFdTV83ZtzL4VrhroId4P6FlLAy5ULOXFs4HQczSzIALZwVJwclDOc+f//Le+4FK/9Joaqc8KUU1A8Vv7ESPGSgzDu6WUtlT3ToamXljR+InuIyAQf0DzWPd13uqclciHxIBxCYO5uOKE0gsB7RZXpoWyhS5Yz2evjSfzeQ3e+0qn7EswvZitvPPFq7nILJeOcj4RtBqux2+cz8Hi/OldepC37j8mcLTGMd3dOoK1e94gF1B2kReXLeQGXVc3HXlic5Foi5xMAZJjNFCy7u7aSaTC0oQPQ10zR5AIPXgklh+o+75l+/zSteNMlK/2nE9uP8o="
+      },
+      {
+          "groupNumber": 6,
+          "videoId": "Qhlqy2MP6b0",
+          "topic": "Regenerative Wind Farming",
+          "location": "Lecture Hall C",
+          "slides": "U2FsdGVkX1/7nUKJqzNKCmxmdWpOkvrjc3vi3v5afnL1b7Q8zKTE7cv6CgwpY5yovqjkHPt2Y2IH23081k1ei97iieZelImgg62XSQfvCVNCjUNvV+tcbywqrgnQlpb2A0qWscdivPCeeL2d4F+PhunikwHYteWN44jiYPjRrc5Oey19z/9vw29fTJYnV2irPDHl/BcRsi8D537sQKoSXO6u9ZgJgjO82BATHYVIVzA9f1nnsSnYK/jlK+sq2GcR6ZIAh7ty0v3PhNOuFfeeof2sTwI8YEqmn6WL8QafKHPtZT7zmojdxV+rJMERdVPtOxXtZKKQkwrHL3RDOSU87J333g+xeJATA6O3lnumktKyp29FqG7Z2LafEWKjHvr97MJ630SDugSqAyB5CwakL+9cI9ziNTiDynL613WebX4="
+      },
+      {
+          "groupNumber": 7,
+          "videoId": "UexXZQSabMk",
+          "topic": "Low-emissions take- off and landing procedure for UAM",
+          "location": "Lecture Hall A",
+          "slides": "U2FsdGVkX1/YultTXld/lkJPsZ/72GfNV9yizD8tR2kvnB4gu8hhY2k8BzoO6B2VujvRXsVFQJJQWb4cH1KSF1DlSzx8u9cTQ+1zJo5CE7c3so/sfxYWU50T60KgWgry8rut6AUeq6NJSNcnCYLVDlYpunJ6jPn/w8eg7ZrrZZPiwvA/ToIUfnTEGaXa+PA040rzTGzYV1FD9zUnTTPRDOxjh6M3QpI5U9W/gZ7aQtFtI/9geXMIFZ/8ZqA5C83046Yr/su+o2YWR5Gl7NsEdqzq1Zz1n8zbhXjAyxfpOpNjukaeXl3XJLC67e9bR/t6OR2oyjpmUdFpdKxnDUOAiG/aKkUpTmvlk/u3JqRrKAKBg9jq/J7r9tal3qazwwYUbaiHEgvlPLGnPNBeKzOTVRY/rJCib9ohLBQnLUm83aI="
+      },
+      {
+          "groupNumber": 8,
+          "videoId": "Iip8UEn-GKI",
+          "topic": "Sustainable glider tow craft",
+          "location": "Lecture Hall A",
+          "slides": "U2FsdGVkX1/8x/d8NNLK47aeF23qb3b24q02nNiVkEkRcv95i5ju8jsI2avovKNBjV+hSknTbkld8muvH4e5Z2nA7AjLotlVirEpWOZ6aGYrtEW8Q7xK6G5JeD3kPYYpcmBloemzmH2ICV7PGlQ9Zxi9TBHclJO1Z0sNXAtx+GvhafzhVkS0oUL4TREP5K+P7P9Nuu5YzrDPg5dRt07tg92DNNtGEERdzabOQDHSKGhWh2/ZhcdnyvRXnFAxK8KCmQoe+q6hIyHgK2LcNpH+4kDzcVCENnMjkbIefS9+73e6nfLWQZNobSVDMDSYAi6aYsMQ/RLVpyp11HtdaSxJ+S1w4T5bRPEDijA4qzJY1nOHMwPrfb8P9Fy6ieLQaSdYf52jqLNLmACC2Kkoji8r7z7RCGJZyfgHC4LAGuFmBbE="
+      },
+      {
+          "groupNumber": 9,
+          "videoId": "A-lDJ7J5BTM",
+          "topic": "Airborne Minesweeper",
+          "location": "Lecture Hall D",
+          "slides": "U2FsdGVkX1/rafuMmWEFCusClNzHeRtYH4UErtMG1SYB4ljkqFzsPFOZYej3loM6VKHtZiHd2KTf61NacM9jmUdl556BSRx48ryeiISfw9SImOI3VAFIHtHWCBDeKUXiJaHe2ITxW7lxQdDZ+39W960ebrV6F/CmpyHn0z8nt5PebkYpcs7HM1P8iTEJ0r9Q0t4z6+nm7bvXTF02yhW86iJnIK3eH3Jr/nnjhie7nW3oXlx2ZB4i31ah3KRJWthwpL/LiAltXN6eflFKTqmgwLyMQEucDimnh0UR36UXo8Wt+SxnXG3y37K8/zMkuhSNJAn3Ui0Uw9B+9lh+dzETtmJJKNRxJ/Yr1TASkeJ9tgpBUYQYK016cSUSfjguBKTpsGguvtIDL2gs9XNpyMAlTSOVc6ZaBpHT0J0QyQg16gI="
+      },
+      {
+          "groupNumber": 10,
+          "videoId": "0U4rfXM0VJk",
+          "topic": "FLOWS",
+          "location": "Lecture Hall K",
+          "slides": "U2FsdGVkX1/fkh3xNInAMQBGpDkNMPvWYqY5Ndt7czc3AJ8EbQ4vPXs8nibgbnGLxHoEsJqe1NIdbEFH4ZWvdPt6Ecazvj+meSCZM1cEbRSkBZyyBkc8bxiaHw+t9QJ90PYpzpzG0L+kVkJL2f4tLongX4S5bNmJ/IrZFGMTO116tdIA0QKyZcA8K4Pt6XaIiM7/lg1CluO53WqneydwXRdiaoP/jQTljdhTrO392rxjl6nd6vkUr5qfwaRWoeVyizwDgsIWbxTUqs122QXpvubirE8yJbKugtiWV0SUB1W39+Pl2vGwDYuRhYiEB8JWQXiUtZfYpHkTd4CRyTEY5ZyyR1nKFpzSV7nMPOw8dteTOI5KJQtFt7UEIpe3aucgOj6Wy4hnyfUWP8S0jFP4uVbuQG/xkrGEKqnd6t5ajlQ="
+      },
+      {
+          "groupNumber": 11,
+          "videoId": "3u9kEpSoJNA",
+          "topic": "Pentefoiling",
+          "location": "Lecture Hall D",
+          "slides": "U2FsdGVkX19LKMIWthqirBkSY5PYxSWaEMbcs5rJ380DE5c6Ocmd6yA2ybE/x7WOysm24hePJR3CRCd7VWqVMtBZ0gxhCqYxWgQWcJpcTzUQgMju4dYdAd94v6yC8zn44I49juPTWYsSRt+dhjJqJGNkX2L4+dSW6vrs7bA+WB1Iu1dxRuo/R8A1EsvbpQnvyZhL0d71H0iN/boUTiVGe5Hemm2XUAlVBhy2w9nkOB0nVT9gy88/hJUDljhQ3I5eE7/lDf8pAsbUlOq31RwMIfgMjllBRfxLCgRC4uhpdqfNUuOihNtRVtzzuEaSxlgksw1lerJ3VMVnMceVw2LE5K8eLHGb6WAj2pdQR2TrJn77YjjVZHgEjxQZvEdZN/UoV5wXSLUAT9ZmAmhnInKRaBkx8vONO6eoBcSrkN0qzQ8="
+      },
+      {
+          "groupNumber": 12,
+          "videoId": "NBA2C0rwvsY",
+          "topic": "Wildfire Drone Swarm",
+          "location": "Lecture Hall D",
+          "slides": "U2FsdGVkX18ZKjykw2wAjt5QV/kcvHB0VGs7aDw4kh71/URSwwokvEOg63GdQd1UevqGvsUrfB1DM92IwKACMbjsqtviixmDNSlQlI2eG0yT9oKKxqBanYLPAEk5WYx71dLCuRDx9L8Rgx9bgbDO00xNZGXwN4SK+sG2nAOQFSoWAObG8A4wH79zx9HtbpAjZ13WHltopxQ03BycPaF4hq13tjCKrXP1ZcUshWWVQObB8godMgfy9qesQZQtGyWks/m684zd693Bpnw+WGdZzgA9ViaWao1KxoI9//h1tamAK5a3YNW0kinIUsSq6a1B8e8Lm9xMroHtUAzieBmwpIQ/ZqJQyqogbOs/lV4EbsfKIR9ae3U40CZF/B7a3teyLEEpIH9TmdXRyGmrED/uRZDWGDoorClej4/UTOvfP8Y="
+      },
+      {
+          "groupNumber": 13,
+          "videoId": "iiK_dZEVg90",
+          "topic": "Multi-role VTOL Aerial Firefighting Aircraft",
+          "location": "Lecture Hall D",
+          "slides": "U2FsdGVkX19CspGtn6wkla1LcRp+93u5dHrfDzh/gZkhXx4FV469ZGu1V9qIeKqJrOmzTtRLsP28UaGUQqcavnNWieB69+/IWpRdBcoZiAsUNg1HhuJnkhjN3CjrHHhdDk4ioKHullNZtT1fVjsCm8Lcorn13jmpkIaN8ETBCJkeXLAnLQPZNyJ/+g1jwv0ws3P6fsXUTkrYm9oWGnDVStCwrK2rSAOgwhYlS/DJdY2PQVCzVlIEcMHuY8532ttKZMruZaF+vCE3DKK7/6F3BvanXK7UgF1B4UJ6Nx7eMvGHMeV126pF7hFqZgcbmi2XrOVpjhTHgm4yl0Kd+QpLZTjc0FQ4jfPRY2MZV8vF79TZdpt+zy3ndNvyUZqrwGD4TD3E1W42YJx5s9h1LBQU66xPZbf3Rgl8u+Mdf3h+ofM="
+      },
+      {
+          "groupNumber": 14,
+          "videoId": "XEXGdBb7bYI",
+          "topic": "Multi-role VTOL Aerial Firefighting Aircraft",
+          "location": "Lecture Hall D",
+          "slides": "U2FsdGVkX181FdhdEP4xhIUrvLCc+BkcZzbQg1F0UT6/jQPGZ7VMf0JoFO5qQlZiCVMhGMmsPsmLYF6PjpojYCdbWOHf7nO2LfX7jsQRw+pI5p1MR5Vxzsob1sb50MA6lYq8eu8bBqmttA1z7QN7lhkgHW5enC3g6Jkd4UvAwiqVTSXlEGDqPdlQabO6GKYvlqJqj4n5v2rlpGTwhTB6PuonZ/Z+wZm2CtZaUvxIsAU4ypXU54k429cX7lX+kcde3adnIENsFIAHxF+ySljI3Qb6GAQxJtScGeCAZj6k3JbDlHWzfSBIC/+JQ+xtjQdnPT5Ujf0XdbVXA1TlajzmQQIcPbmuOy0YYW8RLOovX443wV3pkKqkXgMOQfTx9MklgmZj2MwK+TeNjnU9EHjjha/Gt7L+XjaS6/JS9v0rr1I="
+      },
+      {
+          "groupNumber": 15,
+          "videoId": "y-eUhKiGV4E",
+          "topic": "Humanair",
+          "location": "Lecture Hall C",
+          "slides": "U2FsdGVkX1+UZZCOds2aQLGeqGYEhQ40w1EdEOG303mKCgvSDEM80XIXEE41b199rPHv8cVE6N7kVbgBSSKhtMV3/h1mtbH6M8QSWi2eH4dZkutp5d/uI3QDQprzTq0x1ahUyJtMV8xNaCM4rNjd5ucsg/L368OA1h6SIuwiO9e9vJfsn+ZUorgYnPjO7GpF9tmDLYE8hgrtlka6ZxqL3CUMw9X6xqQH5eIstpdlB7JdNmF7x6t21NIvSLwBWEMlSYzG2JqTrqo2JFej0J4McC0bqZzwMupnXJAVnHCzDUb95tNzNxypq4pIMCGV3e/7A7sEle9NQyTGR2I8E6QHT1KYDbCx9JYT6gt+AkEDzmb1Mpj+vsZnSOZNCTjLimukSfTITsrdMETl5Zhjdvr+aJvkSmXEnRzWrZ7XGRF9w0g="
+      },
+      {
+          "groupNumber": 16,
+          "videoId": "tkyh8XGNwaA",
+          "topic": "WUAV",
+          "location": "Lecture Hall K",
+          "slides": "U2FsdGVkX1/m8XQg+qP0cxjukw+WwIZH4d40udham26F0mWRZOXKq+SqxQkel1urrcKtx9WFH0V/KV+G4sBjKZqfei6Rd1NSG1fZsrclgXkymRwNgF/qNzJZ4irFza4x+Kzx7RW/nLJBGJTRjRPqcmIrJDkLxC3Fz8gwwhNnfWDtpr4xlFIFbi4GkPHN1YKA+AJxkaxzv2vK1j9TFd5k19XCyP20OmXn41oBYygHkcPjsBYzf+x5B2hc6AM4yeSL4sdZ+fHOzO+BFTnF7DA+x04RY3hV76iKVmXrL54PjVQ+g4U4jlDQMHPlH9axBzr0b19fuZ0XkA6FLMIeoIkTE9T2VX0H/+TciYwWqluNNQ/YQRtfKEcvPPImLICDE9vPPB9VP1teuPr6JkUTeOAb9BhT4OaPJgCKvg+tHzlOFTU="
+      },
+      {
+          "groupNumber": 17,
+          "videoId": "EpnJzzKw1XU",
+          "topic": "Functional strandbeest structures from recycled wind blades",
+          "location": "Lecture Hall C",
+          "slides": "U2FsdGVkX1/ArrxdYOvK73/we03zFSaOnhQajlKgjeogg5RpE9CQR6s/IF6MmV/ECmb7a28RZZdQCr2V0zmH5UbnatT8Oe93E/auZ6drhPmnTUypxDyhiOgouDwdWyTl+rkNsSfvHOugZ4GxWHpLqOqiLoCuid/pDNWFw1Rtd5MlTIR81b4zH4AuL25WQ1yW0LQT6IHNn6DVXEZTHW9U9Rt0YdAz5TML3GhrHXVl1Ky0BJGo//phLagpgqNCCKDtEYY53jdI8sfouSfP6Fq66RruVJjB1AunBx2qSSzPAZ+2q2gLv1YR4lSYyY/sQwxM8uSdvLqBPvGOmjj+VhZNFXyfLHG2eEZb+DYOU83lQSQUHHqwtv0kEm8+LbtW2PQOtXvlCN6K627X4h1+iQkch0OmMDJbaLm/Nar4zxZ4CSQ="
+      },
+      {
+          "groupNumber": 18,
+          "videoId": "Tkz7NyqBass",
+          "topic": "Lunar Buggy",
+          "location": "Lecture Hall B",
+          "slides": "U2FsdGVkX18HE/Eap/yKbvfyImkeHf5VUl343dssSlVVLNDDxhwl4KDGnCsjYIQxUmAx7B7n/XrL/dXLqKo5nkvWeVpMgNR/Qlt61yNgQr5j6qB53rGSI1Xe9P5ddrU5xOmwSTNZqKlZqxz2pfmvwR4sesSkzdZnTSwWVmyTqKPmU9jAtaMvAKcHGlhJwy7j17cjjQdT0vm1m84D2oXw1tS7MFdFw9z15XL8d3XLG20AWmmFKXz+w/MpG6I7kQx6LMtc3AKwOkZkFM38T2sKs9gwC8Ibpone+KIDE33eUx/G9J/PVX9VMGbQtzliBmsJCnhabKGtpnme+EkNMwIHU23Y7wTB41bqruzIL+mR1hcdhY8fdhAxV3WrTj+dLpI276djDRuJMNjtRSMfkFbHRmZ3UFbQzkwpVO++ueNN8Xs="
+      },
+      {
+          "groupNumber": 19,
+          "videoId": "rGkdJKT0qXE",
+          "topic": "Electric General Aviation Aircraft",
+          "location": "Lecture Hall A",
+          "slides": "U2FsdGVkX1/0wbYKyaIuRCtAZFZ3KOj9CwWu3Ut6rQUnS1NpI/vzi34X6Q+JynCIj6qKNsJ3uoh9iiUwRyMmmgT5X487As+RUyaWy/eF2ePOYpgnxPwonF+BRADkpODRnJU7NZteGQbbBTOA9+5lFBtM2Ef0qsmf1peliBNe+M9XBPZ2PVJJYJMGHwZBVSa6J8LPzPNTRmRsjuo1Wq76FbmXqAQrgI6IDQV5joEswKbuiFZUTzoSXMkPyqT5aTvY9gplMZSwDsp9wlrKYPyWKfKhmtMGD/q/5ZAAl5uBibGGJA+H/owQArkCUBBsE2dAexjUzrf506z+OgWkxEriLEuhOOmje3TsT6pOFrNODcUshMMDM1Dw5AfQFF8TGA3YYPFobxGfwQWodBm4d7EIT7idMbzynODeQapWIrD1dYM="
+      },
+      {
+          "groupNumber": 20,
+          "videoId": "bFnswETMwF4",
+          "topic": "MARS LOX_LCO",
+          "location": "Lecture Hall B",
+          "slides": "U2FsdGVkX1/VgoRCMKMk1mF7UcSk4JgGopELjjOUSs1GFonAbeXLbTxkcw+f3J9rViX26ok2WpuxnpULefyrUZAmwvwtRKspnARDRDBMs729T7urAUP6Dauub6K9DYO6FgPOL+osym+oSumrdV7pGsyFpL3ZFL1tK8zn0wHFHb0aLONHXIppRNKlwJsUC0tVk1IdJj+ZkkerQCBPlhSIBHnSRy6ic4wOktDLNgR0ptv3xIUUgKh6+E25hL5prmc07Dua4jKJlli6EYHazRcZvSeHP01W32LbCA3vRSupAT4NCb1xesDjb8DnZgOC184QW6a7D4Mc4wl8bv385HJD6eVuVYPJJgzNWde+8RCbuk3dfrvzmd0tPFHg+aLmE09f5RgpHFGBCdgXYZz+R6HXgr8cwfto4Hk7lySOBmqmgRw="
+      },
+      {
+          "groupNumber": 21,
+          "videoId": "paps9FAccs8",
+          "topic": "Moon 2030 - a New Hope",
+          "location": "Lecture Hall B",
+          "slides": "U2FsdGVkX19DewaSSyXc8E9gsJZSxOBAPBbw1Lc50CHuRTH7ysmpQGI07SQBn3bmukSS4Q7M+q9+Pa+sfXARst3FUOTav2v6rs40RRo+7fobriSfYDDi3team7AdmTDwYPFH/M0T8N9YuJqaQ85ZfoDPmtIA3cGfbbcw0MC5VdxM2dBjzggdISSWdjzC9vEMoVWwEMamP50uC0qj7yFtcbpj1u1eX47EgLYmxjGBU+P+9kms5idSh41hn6XEKm+48KZrbTVXVOHZx0JfHIP+Q4U02eAqVQBRc6DoZDzMcLSh9fFIR1OVhebBiBkOMZ2I8nhWZyGZxFnQ8/0atbMmPQxRHRLXJKW4LIMieANq8snd7HMcKtAYGB6Fl8cxJMIDngJA51y0ey0MOPa8GQQN7I7LJIjOuxWiP07dTksH94s="
+      },
+      {
+          "groupNumber": 22,
+          "videoId": "VaDbvZq5LeM",
+          "topic": "Breaking Barriers",
+          "location": "Lecture Hall K",
+          "slides": "U2FsdGVkX1+dv02rPIdgGV5Ekk4U3MZaPhkSSPLaCYWzdQhQKK43f0RmEOzMArHb1nERGB6dsEwYakuSkNGeLv45JTWu1+MX/suTVP6B2NQ+c2Lv+LSF3TTD9WfDqt5smsYKH6+1YgY8qPN0e2jx0RQMmyTg5tuGO0Gsqlz8mO/C0YrD4/5I+BxqhPCnOZ6SnRbaUSqg/fSBGVJUNg9Iw66Sa8mHXNtMu5gBSS4him40B2ZGghoYJE6KtUfoufKOviyDUo4SbYWiV4z94RhCv/3enkubvNZtZ1zNaFa0w+oSDNg+NDgtzez2Uu0feznwCqYzLnvzMzqiXtlPwlcjztjpryAhLZOPRSlIlmnxJrTJax5eIPbFrk8VJ7FipHdvKQJaq+IaShEnMDfQEUOjbl8VMA2UKVRI53ZNyEZgiww="
+      },
+      {
+          "groupNumber": 23,
+          "videoId": "txhbqivrWUI",
+          "topic": "Asteroid Mapping and Sample Retrieving Mission",
+          "location": "Lecture Hall B",
+          "slides": "U2FsdGVkX1+1FK9jLH94At2knapFLl65P4TeBH9IVzDuOeflew7QOjqlkNa0dW+6K9PYp/MoPVzWFsOhaX9i9eOBqgRhIUs5bb/llXyy09AuTZqBx6tWaRlBDNUZel6Q73rIlhweVLbshqfVtoem9IHBD5/m07So9gcEhjAPr7eTJQ/ViTmd5Xpwsq5h1EP3UWRMoarYGSMdxYEZE3kTZGtFz8YoN5mo53xh9yHE9xJ2mqjg/4f6NjnJV6C6tIgILQDKyPJFSWQIrV2CURkJAoPeIcu7V1K7ayW4VFtt7ggYj0WzdasRQcLNsfc/f9KMwt1PP5jF2tUmzeQLB2GXbGUsvk8pbMACRTwgKzdo+PK1HAQT418aEH5l2l9qaPE3yV7R5OnWdDg70HKxeUsu8/g1AK6W6TAFEGLxheJjjHs="
+      },
+      {
+          "groupNumber": 24,
+          "videoId": "Ndh5avUYHxk",
+          "topic": "AlienDive",
+          "location": "Lecture Hall B",
+          "slides": "U2FsdGVkX18F7BAmwYoY0nuHePNcrxGQr1N8oP+lvsjvArdY/eGs1kc5Kz90sDurEVPCazDwyZLpGjt6wcH+zjj9d8QyJQb3NOHrNGeAQ+8psCtwzg9uAVOjtCTKfkcYaLWMYc6oI+GnrozJmnkCNkHYYv3Mp3wFGFeGcDy5iPAlWmGdpv/sNZmmezehfGVyjPq82owvqgqQD8+pyCIId9nGCXeE0RxzIJ1ZTEUkPt/OkvWp7ecH8V8zrs8xJPd21zcQZLsF20Vm3DUTCJFmMuykBkjy/CAtYvz9jNBGGP/1p4bNGT/5WG/fylsOu76LnfwqJfP9oSNROAk5vtDf0VOLav5q6FQOwoQRl5l/9xYD6sPJ8mm5vBn4QNxRr6RKtK9T8hy/hABMnpn0v8CfwVa+tC9i6F91H0H2f+eU6LQ="
+      },
+      {
+          "groupNumber": 25,
+          "videoId": "z0ktqR_LZ7s",
+          "topic": "A first look at planet 9",
+          "location": "Lecture Hall B",
+          "slides": "U2FsdGVkX19fKvJxHugkU/pYeaKdkE+q1+F9muVGtB4QAdgRHpuRacaUfobz4+KbmmmVftvPXvUuRK06D4tLFKIJkBTpX1cSLlIhwC4K/R6yTHtew1zFxKBwhiy/9f8zZYeDLG0Ge8kbjoqnMzGpuyRaUEeR4y7whe5nYNB3DCShIWIbNnSd7XfxIRsjjo94+j8cDeRDFutbfMgd2jPZG2xJpDcfeo3GEXi8PHoHracFVoR9rOIT3oYjrfG/o2ljtpKRI5h00aQv9VjRHekt9wBEJLqO9af5dL1hxCPwWjzjTaxjhDFMOb5mbs6xxwMPr02Nfnv8Vohu7E+tOiDhnpbAeRx+amibGk5HNTE9QTaWkKm2Gr70WI0ZLms7f5Ie3MY685iRSGEOUef/JNtzKDT1tyRc/wW44bgGSGa7JiY="
+      },
+      {
+          "groupNumber": 26,
+          "videoId": "R1L7x3xomMo",
+          "topic": "E-Racer",
+          "location": "Lecture Hall K",
+          "slides": "U2FsdGVkX1+UZ6PmLx7Z4XC0zTAMwm2Qm4Qqx9KapYVyNyu2DQYE6ZTiWLgKcA/qFF1nNK5KBafdSYdlcNXGBysCjR8v2ANgJlyC5bK/9u8QbuMBHybBPyGobxUrDrax+zCvsHZmRyNJquO3trLPdDDglBzbfCsLmv1YHwFimVnXFdSAHX5SuNA/Oh+ObKe+fxHGdcI6plvz+pQa7M4OO9Z8CFc8Zgy9EE1utqDdiP8TEBXaUreDARFlwNybTWdocxg82K91Ru/4k0ylwmhDQzwnLX0h7n/PUyfWIu7IpuDjm3RAV1RGNCt3oV0drAgK0fFUEz/lA3fSRp13hYjjJRdBhP3nXFTGXIXQtlyWqTDglFDw15KxDhIX2sNcEMqg8C3psqQ1lnK8GXfo++REFpMGd8gAquBo+4cjYEHwmCc="
+      },
+      {
+          "groupNumber": 27,
+          "videoId": "BaodQkxV2x0",
+          "topic": "Energy efficient aircraft",
+          "location": "Lecture Hall A",
+          "slides": "U2FsdGVkX19nri4WChpzCLiOR+hNjK+bbWUGJWuB1Nvu4Aj0XLSyzLZZzfOZ0s9cTgABczSXMj7XfNIARsLXpSZIIpjEW9Mq9R5gRDtYDjoxz8+joWWUdUQjGTuPA77+4M2rsIJT9jYI2qM9NaR8Ld0FTjuB0zWQqxYOv9Kft8svJAMCtwhyzzpd+SeE1oH7o8udFmLQUAdL7C4wMmxk6rGxop7LjlsNdTPUsCiAl5xVZYjVTQ2BiEv5ebKQrQGmEgfrzdmQKLh+zmkIJLLfJy3cf2JuwfKsE3sgyo2IBhRyAnWQmniomn9PpLuc0zn7CQO9od5sTXbUnj4+Hip48ShR2ZiA7ScoQHS36UaRCW268RgZf/5WayQVTgxvmVRrU1mheMW9ll1zb7Us/zFN+mWY6apbaIOMEuriviMkyT4="
+      },
+      {
+          "groupNumber": 28,
+          "videoId": "a7M0ZRh_26M",
+          "topic": "GoAERO",
+          "location": "Lecture Hall A",
+          "slides": "U2FsdGVkX18aKaspP4FGL/xQsQ9DZyJfj28Ei3I4bMVg7NYW9L/AZT7eK/w2dqE2so1Exf++0937VkT8qCFThy4E88jOGZzYN/sAgJ9+iwxIoOF7Etk5JTxIk9a9ktdr5YVucCOc4b6OPCr055meUPW8K181ukTbnlp8+vu/ydY5RcJW1DQOsy10JwgWSzUhOKGkVW6+v+5acQPh4co86KL1PQrQ45VPxP6uSUyH8tSZ97YNXCBZPupfHTZg49Jz1T1jqNokH1NEOMhjdzTPciWy9JmG5LuJpIjaMC64lp1y9oOb+02Y8Dzr6XX9AxIFR6fjFxGfzK2IVoHIBx1lOKIdDKFuJfowIwvGLq3ib20FWegApLAbjSzL9mUPrsR4SpE6yf8Cq+WjNJjR/s6cHrAtY/DNdKfFl5IzsJ7IiAo="
+      },
+      {
+          "groupNumber": 29,
+          "videoId": "WIpRk8X5sW8",
+          "topic": "Environmental impact reduction through aircraft design",
+          "location": "Lecture Hall A",
+          "slides": "U2FsdGVkX1+Nx6181EHpoeXcsQX90NHCogmlOGvd0MBpbx2+FNjJ6gGtVvDF4WXRSYwheWZTdvr250wPYbkqr8DWlB5NLeBKt/omsz9qQdb3kAS2yYtHwlmSFSk9MUeB9bd/ZIOmTpT4YdQOgwt3I9WMPbR4ho7bAzZFEM5pxWReQBBZQ5xv8B6EjMrrDefLspOZLqO+KH4JRpuKtFlmkPpLatQH3ifez+cGOhixwJ7DqGrgI2UzTRkJJVhDPgKrTvPA710pieYfBH7Se8Unn2P/c3MozBEykX1ui1oC50dhTmoU9vYDK5cTJQkcjrP6NaUAqvjQIiSXQnsalqwk6fSanCdecChtX+MwmgVxQVkcfGZyV5kg1Kuid1oa0wYPaNOAVMs2ygCOoBh9Iz9iDEnANAGJS9GXoR5VVX0Qn74="
+      },
+      {
+          "groupNumber": 30,
+          "videoId": "RmA7V67lB_Q",
+          "topic": "Cargonaut: a crew of drones searching for golden boxes",
+          "location": "Lecture Hall K",
+          "slides": "U2FsdGVkX18hw3UQTSRvUCExvRpZ97XQzZlxvWkfPmfrw8msdewoWQRdNG1mrq7a5HRQ3I24tRyQ3nJtON3fFPSFxOy6A8MzfV3bCqDxUNYlYJhEHX5opnu6YX67DhtHkSEuG6LBaz7rwHCFJEbC1i16sqRso1dtmHvb3SR8n88ZzvTbCBCCuEHuxljNV6mknZNb9S9C3Gz3jc5n5E7enkfJ8E8TG9c18Yl3sCIrOqEXzLv+cfYlfXPk8Z+NeBSRC2iDUTn8IDlVb30AFTm0paSgonDZjJv/WJfD1kv7rPL0J5H0cNkn984o07wGlfrd1VwhE4AMmqj2fMW389mTSuPihOuPm6bojrJZg0DY3oEamqQJuKMJAuASuGCb9QvsGsgHMJ6BAWb52iLyGkDtJGAXjNr7plOyYC8YfcWWpUs="
+      },
+      {
+          "groupNumber": 31,
+          "videoId": "htQWGPp-QQk",
+          "topic": "Extra graduates",
+          "location": "Lecture Hall A",
+          "slides": "U2FsdGVkX18ldz7DJyEaF/Bljjk170MBlRS1TBzmoAuSpasp14+N/PIxpmKa3nt/HZ/sYKp7ca0vNznRBIdapNx/LEYYT7Tp9TkXOnNPOfZmEx95Ilf8vvisE0b6T7SOL3cD12HnKWInmCHXeQIfPzwatyD2HaiRkBMQ7NqjsZ6z93efY4pzLVxeF3yBL4fdmIKoJUMhGBbam88ikgy36XpaYyVy4yPJrxcES88U5qRg4Zvqv8/Ibtt2By3rQX20o3VO9pPAPuJ7H+xXkR1c82nmY3j6oitWB1rTLTUVzKJuQrB/01mQCfepuGlBU7MJGxMn+qPyXpfYwnvxgH6jN4aY46hzYPX6kkoh5ccS62Oi1KQbFdtNp6iBUoV50pdNZAOPDv8LTSSW9dQlR0n5AUKokElmYQwmQGZpbXy7t/w="
+      },
+      {
+          "groupNumber": 100,
+          "videoId": "Wc4zOdsbTt0",
+          "topic": "DSE Award Ceremony",
+          "location": "Faculty Foyer",
+          "slides": "U2FsdGVkX19QbQEKTsahlKI4WNyfq5UUdsfmbMT9F7GgZ55F839MxQGCpZKkqntpIq6H27sq8Wz8XpifsKzWgrw8hqfBTThtRseNNSO3eGRIvdwoFdJhtJJUPID/fSexins58q/IPkVtR7z+UkZgsbRSARRZk3x4JL+50zFQyKyBmlwiMz5vpHLOjrC3Yzw4BJ/t9HAbN7WWzpOL/I1e6DCVfZkl2OhopVqPwHbSsBMqH9sESMK/CgHc0fuUH/p760gNB6KKPtK+OoIRXxFmD8L2VkHNY+SGS3gVJ14Y21b5z48v5MhUDPOa7oIdyoP1Dy5+8KGOhXPgdg61NRqTvwL+wPRI5pFm2QCWayG9NFUvxTJLfwInp0u3F1F0lUCYi/6lID9I88y76mUk6JxZ7IE8kTRUVlheB+PzFyVSa14="
+      }
+  ],
+  "timeSlots": [
+      {
+          "time": "09:30 \u2014 10:30",
+          "starting": "2024-06-28T09:30:00+02:00",
+          "ending": "2024-06-28T10:30:00+02:00",
+          "groups": [
+              19,
+              23,
+              5,
+              1,
+              22
+          ]
+      },
+      {
+          "time": "10:30 \u2014 11:30",
+          "starting": "2024-06-28T10:30:00+02:00",
+          "ending": "2024-06-28T11:30:00+02:00",
+          "groups": [
+              28,
+              18,
+              15,
+              11,
+              2
+          ]
+      },
+      {
+          "time": "11:30 \u2014 12:30",
+          "starting": "2024-06-28T11:30:00+02:00",
+          "ending": "2024-06-28T12:30:00+02:00",
+          "groups": [
+              29,
+              21,
+              17,
+              9,
+              16
+          ]
+      },
+      {
+          "time": "13:30 \u2014 14:30",
+          "starting": "2024-06-28T13:30:00+02:00",
+          "ending": "2024-06-28T14:30:00+02:00",
+          "groups": [
+              7,
+              20,
+              6,
+              13,
+              30
+          ]
+      },
+      {
+          "time": "14:30 \u2014 15:30",
+          "starting": "2024-06-28T14:30:00+02:00",
+          "ending": "2024-06-28T15:30:00+02:00",
+          "groups": [
+              8,
+              25,
+              3,
+              14,
+              10
+          ]
+      },
+      {
+          "time": "15:30 \u2014 16:30",
+          "starting": "2024-06-28T15:30:00+02:00",
+          "ending": "2024-06-28T16:30:00+02:00",
+          "groups": [
+              27,
+              24,
+              4,
+              12,
+              26
+          ]
+      },
+      {
+          "time": "16:30 \u2014 16:45",
+          "starting": "2024-06-28T16:30:00+02:00",
+          "ending": "2024-06-28T16:45:00+02:00",
+          "groups": [
+              31
+          ]
+      },
+      {
+          "time": "17:30 \u2014 18:00",
+          "starting": "2024-06-28T17:30:00+02:00",
+          "ending": "2024-06-28T18:00:00+02:00",
+          "groups": [
+              100
+          ]
+      }
+  ],
+  "rooms": [
+      {
+          "name": "Lecture Hall A",
+          "location": "A",
+          "chair": "ir. Joris Melkert"
+      },
+      {
+          "name": "Lecture Hall B",
+          "location": "B",
+          "chair": "dr.ir Erwin Mooij"
+      },
+      {
+          "name": "Lecture Hall C",
+          "location": "C",
+          "chair": "prof.dr.ir. Carlos Ferreira"
+      },
+      {
+          "name": "Lecture Hall D",
+          "location": "D",
+          "chair": "dr. Marilena Pavel"
+      },
+      {
+          "name": "Lecture Hall K",
+          "location": "K",
+          "chair": "dr. Jian Guo"
+      }
+  ]
 }
