@@ -218,7 +218,7 @@
           "slides": "U2FsdGVkX18ldz7DJyEaF/Bljjk170MBlRS1TBzmoAuSpasp14+N/PIxpmKa3nt/HZ/sYKp7ca0vNznRBIdapNx/LEYYT7Tp9TkXOnNPOfZmEx95Ilf8vvisE0b6T7SOL3cD12HnKWInmCHXeQIfPzwatyD2HaiRkBMQ7NqjsZ6z93efY4pzLVxeF3yBL4fdmIKoJUMhGBbam88ikgy36XpaYyVy4yPJrxcES88U5qRg4Zvqv8/Ibtt2By3rQX20o3VO9pPAPuJ7H+xXkR1c82nmY3j6oitWB1rTLTUVzKJuQrB/01mQCfepuGlBU7MJGxMn+qPyXpfYwnvxgH6jN4aY46hzYPX6kkoh5ccS62Oi1KQbFdtNp6iBUoV50pdNZAOPDv8LTSSW9dQlR0n5AUKokElmYQwmQGZpbXy7t/w="
       },
       {
-          "groupNumber": 100,
+          "groupNumber": 32,
           "videoId": "Wc4zOdsbTt0",
           "topic": "DSE Award Ceremony",
           "location": "Faculty Foyer",
@@ -311,7 +311,7 @@
           "starting": "2024-06-28T17:30:00+02:00",
           "ending": "2024-06-28T18:00:00+02:00",
           "groups": [
-              100
+              32
           ]
       }
   ],
@@ -340,6 +340,11 @@
           "name": "Lecture Hall K",
           "location": "K",
           "chair": "dr. Jian Guo"
+      },
+      {
+          "name": "Faculty Foyer",
+          "location": "M",
+          "chair": "ir. Joris Melkert"
       }
   ]
 }
