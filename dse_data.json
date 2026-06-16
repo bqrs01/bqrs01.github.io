@@ -1,323 +1,323 @@
 {
     "youtubeLinks": [
         {
-            "location": "Lecture Hall A",
-            "topic": "Swarm of Rotating Cylindrical Wing Drones",
+            "location": "Lecture Room A",
+            "topic": "CARES \u2014 Contrail Avoidance via Real-time Environmental Sensing",
             "groupNumber": 13,
-            "videoId": "HXYLDaTnMQE",
-            "slides": "U2FsdGVkX1+0waSUUkotPLpfLcnMNScVom+XPE6AAayThFlRa7TO4Ra87OLXCaWQeYOkjXA0iMxbAmEBkRFCOYNCZ4W998Squ8fu0E4PDbPJiTKhYq284iWuV0gl6HJaFa0n/4FU97BR5/qVUMUP/IX2P6uXGSFevkMVtUty8aPUzMDpif1wEG3drs9i8TV82U5FsFJectkfw4cCero+0y8LFauEpbAgXdJ9NZv7Ul2c7NYB6ZeMQ6vwige28c08ObuprtVBW/e67O72RgKgW6+20xSjIgHE89qTgwUrNrbrB7beZ42EUep5Vvv/YrJO9aDeBDCy8FNX0OOT0EgOSLb3SewIkQYwIzQy5R7xuwG5UiLsZC+yQOXtV56G2jHnorvH1DaUZjObvlI8EgmpEN2sk9nGu4jg5Uw9qB7IxFE="
+            "slides": "U2FsdGVkX18KuJbaeUCl29KvxRBlSrW1wc6XFQa47wBfxQUgb2dmwEMsdHFw+OYtLc/qctgLrGDH7JB3UdMLbAsJxRpjI32Bz7tNWC5W94b3wHOsd+GpbAq8/28N2vnMxp/Uv0RTrDuuIjOBUmYs/STOetSXmZ5kR6ijB26UHaEV2IZ83oM93tjx9XPl5SJj7Xi8UIANnwVvHofe6hJ9SvbA12sRrI4LcSMYeFLqOCOCW6iZx3OFgdQD2AY/qVIIOZEJ0dqlymaRl91Mw2koUI9tVRs8WyVa4v7fdyBlQbITel7am9OLicXCWiQVqE8knYYBDjaw9tTBmj3Kh6+6CAWJphkxTSfENovDq7FSPcLKgsJqDJ80CYf2/nbEYWRL8GHxXOk1wIUAMVEo6+VsH2K6jjFhHzLpxgFdrQjKZxw=",
+            "videoId": "nKNr9xlov4A"
         },
         {
-            "location": "Lecture Hall A",
-            "topic": "Affordable High Altitude Platform System",
-            "groupNumber": 32,
-            "videoId": "nv86livX3dc",
-            "slides": "U2FsdGVkX195Jx7xZwknc1YvVK7dLrmcivz29fiRqrAtoWSY5YtJLjnGyDnLRty+5+P3zXBbRjL17AtxNA9L6x9a+4MDWcJJqRLfWXt1pwasNEbLrSOocoRdfTCHp7AtD7yPDyy+WbFsGK9K0lEv9pnn/rn4shfmDR2Py0FSzPpGUjwkChnWM2yKx6GebY32nzAtn9A7haAE3/2XoVql33LM+Nd1yRWU3e2OClm9lh1HNzVzEJVQ34mT/8GKdEka8NMkE4PronaJrl0wsOykICroNFv91KCLwxL5yNCn+ahdQRD1c/md3xbSTEBtq4A3sGbnLnEIjL8eImkfxsZ80/ejrZWIoHBcgfD/2bDo70AvV/z0BdDEApDik78wj7JiFRmo1ejerYP8O0hMHNpYtBgTBLRjFeMbaLsKL8UT8YQ="
-        },
-        {
-            "location": "Lecture Hall A",
-            "topic": "Stratospheric Aerosol Injection of CaCO3",
-            "groupNumber": 3,
-            "videoId": "0992W3neNAU",
-            "slides": "U2FsdGVkX18X/pL8RfbHqFW3cJBn4Jd4ZkCKuAmG+eHHTGgOGWFYqak9CPqUhZrCzdnPpHu0A09wjQJqKm6pxWykcme07EFz9r41/cyGOuZuDde+qnShFjTd2b7FrrtrSDoZQEL+lV52Eoove4HjHZ8UhmESC2FsPI7bdGrtZzqgawb17V+X3rno16F9Pdznfz5Nro1WbrpAKlOaD+dzYixBIvxBq3YYeIXoY141ozEnZv830zC4DXd5nFHDMNZ0V97TuX3p5PuJuaMAfGFTwOxOS0xfe06Sdu0kbW5OJnNqvwEefJSpX5wSh4/QBmiBVMAaO11BQ52BYUUf7edKpHmW+DZruICRrqy/E8179gCgzPhfw1Qa2QN3nBu7cdQJBAhurrdrlHTVjwOvm3J0V2IMGsOKVVFD7JHQ6mYphNg="
-        },
-        {
-            "location": "Lecture Hall A",
-            "topic": "FireFLight",
-            "groupNumber": 29,
-            "videoId": "ciNDGgGxwM8",
-            "slides": "U2FsdGVkX184qWwR/blKDxP+zjqOiVb0RH9nHen+5sYWRnvTFs93D992CE7cin7sbhjFTLW2tEfg6uAigncaKyCdcVvNYkmSbSXCfBOfqPOXkJkU3LVh564s0EBjzNmJD/O3mEprWkDizUn5ywFkYkq1kM4hRDTvh38rBMB0BdXpSoT7JQ1CCawiMqhcxtjJceOWEZV5zd+LPPvzWpPby86iAa1H82BflB+MHo/xyURFnNQAvicdFKuxTSu4vcqcEgouaVjp/PD1B2LOnrJktP54LqFicCLdTUrHscNy7JHjXyOS75VECHGF3veIUPVDoXJlE3/ieBuKcz5ek6Bjcs3EFInK6qNTNyd6J7b42KJH+vc/fk76Gjyitb+GWzIyV/YJTzzrN9hIiuWoQXqmuyO880/CVDpJjcsra495dMs="
-        },
-        {
-            "location": "Lecture Hall A",
-            "topic": "Optimized Wildfire Fighting Aircraft",
-            "groupNumber": 19,
-            "videoId": "utAHJJMUZs0",
-            "slides": "U2FsdGVkX1+86M4g5nVs+D214jgtrylxRN+gIFKM3z7j3+9vA1VnPznSM4Cylzk+GXW+UKz6/L+W9UHLHTiiaYOA0uopIswR8afsDL6mSFlaaeeTuP/zyot7r1K8GXSpvkKzfwsn4mCjHeH5WzX5eSBhs0TrneNSg8y/yngVQY0Y9WLRomwYq1deKpuq73euUdXh15PktlFiPglk0Bg3WBr7iSa9aF5ecl34TzYp3+vXCItGtUOGy20WkbpzhZdKHhTkpbrMsifJ7sLzSCq6bF/RSHlR1myaB2zq2Q5X/lKR97ZdNqjq8vBfK4CFF/aPkHvvr19W9VKSfL8R7jGsebvaNQZkf28kZ51fhbLHBJ0xFD4AGPfptnIw6I398mT4IBDN4AP3iqUGhrFRsGM05uvaYD8BUk0hr+OHEt8DoAk="
-        },
-        {
-            "location": "Lecture Hall A",
-            "topic": "DSE Rainforest Challenge",
-            "groupNumber": 15,
-            "videoId": "ZaohVGP1mJg",
-            "slides": "U2FsdGVkX1+mkblXnAJvwWtPj44yCAp3NCKGPHUbTiBJZVekDCDO9IYwfNB1pMwbmlCWg4YKAKJHQ8E1NbJ3VJt9OPznbBYBtUljLJXCEQSLVahzmQaBVG78ifOX9BawTHPRI6NRHBZ5cdbOrt+MKwnVlQHUAOKB7F1krreufOACTg2cPwuk8kjLLLu1c/766PNwZT7OuZ/Q5I3nVxjBL0HeZ+FjYu9h3KTGMM0psgv7OiVzBIZSpvEpCokp6Xy+QXaRp2EC/B9Fi/iKY4AB+B1CjYOjMs99fgiGLqH/zAUx5Y1uAL5yo7DrifO66sgVplsI2uOnZjB4qtG8QV9fuE7fp1SPfrYy06rhuhvZJGiMetU6FhYLknF0f7XFs/zF4biJZcbzEngLLSnlC2a9OeMWGxMojWav5dhQMiIsrl4="
-        },
-        {
-            "location": "Lecture Hall B",
-            "topic": "An extended duration robotic lander mission to Venus",
-            "groupNumber": 12,
-            "videoId": "62vw7JPuP1M",
-            "slides": "U2FsdGVkX1/bJHBdagevBkhQKLpXdb6r2z55kPWKI2GgPcnBqxllXOnNqschECKmCax7Bqm/VqYVwU/0zElQCCr7CI2X+u2xEB2ud9MovLKrvckuqXvD8iZIL7Z2APCe/uBjfs76UT6f5X0JV0kAx0zrXhdh1IIHsJZssAosFwy+O2VFSt+tRAwNKnRBjl5788QTT5QTrIKb4eTxxeGlob4DOOpSh4DC4T6SZKYyOdI1Zyqy36V4wbqG+2NVPwcdQINy7+zuch8q2CTTRU7JmyPxCQVXo2J/OcrAbrikElG8bpOmehrZd3K7DPKgAV1tswMqdZj/VVDSGiXAEysJzjreE/xccNvor9z6XKC4SM6f5TWvEPZ2gOnVguIXBqB41lhtpHsaEQS/f2RpHLBzEdLAbSGIoDwVTBJZeywG6TE="
-        },
-        {
-            "location": "Lecture Hall B",
-            "topic": "ThermoDiver: Enabling space transport with airbreathing reusable space tugs",
-            "groupNumber": 8,
-            "videoId": "VlFVs_eaqEc",
-            "slides": "U2FsdGVkX19mkHbs81HUWlIM+7BjZ9StJ8lns99t8P0pSXDD8DRHiAx1mE+UI72LLtt43ol1bvVJycas7wJpZ7RmhT+uaFf7/Sba2o/I0rpLlk/R/6Yht1PB+mGd5hsiKMdl7VjqpBbViFotRK6bKMHsNCT7rqh6ZyynYDdc9QWBrghtdqBbB+mtOqztDj+wpqSY3JpPBfvnm4VSXEO87WHnwHSgKnc/sR0/bfkQPNBwvlbQtoBxP5AHJUPjMnfpiTfYw682VV6n4osY7R6m7RcwsCkWtUBzxoQKyBmUpf2lJuXQ4TC2M7qYRYY98mxu4LdwpbPygbOBYCBw1a6SMWKMF/JpyMnDwJ83f3F0YJ63bpJ/xzBo1CU5YW+TWi2oGTliKWP8LFxzIZetyaq3YhcOlD6lKLbnwCm4AZBNDVg="
-        },
-        {
-            "location": "Lecture Hall B",
-            "topic": "Autonomous Space Traffic Management",
-            "groupNumber": 6,
-            "videoId": "KKrCkxp66g8",
-            "slides": "U2FsdGVkX1/qF8OgNcKpYeTUpfDYI2NTiayfNEb+YR0xA2eA2KfvEFm/6k7QdjPiAJbfel9AVNKX/4j1uqeXqD6qeCUsHG4nCDJ4zF3IzuxbiYG3PWrqMqwP1CVSivMT4m1uD/T48pcGJNxtJoO3CZSAuMTECYfKOxMQ74Sk94+1F4/zUF0qL0DqEpSmh8inhY6oBqrlyTpYS4g1lHRdGC+uWwTw89pFQVtOP+C1ASHcy0NOonooyNT5yX9jaeYpotv/tFCG/tvjARThHmyZ7RvlefYPDqVBPe1ZNG2zEbPrB7hClFAGH9wRYfksvq6IU+8nDJ9Od9Jy4yR5xzZ+6vKgnyotgj4qmrhuVVu4QFp/VdGfbGTs6GzMK70XefQWfAnJjMIn5UuvshD6sEioYYhGqu5TPVVxtzWnyXy3OtU="
-        },
-        {
-            "location": "Lecture Hall B",
-            "topic": "Reusable Launch Vehicle for Hydrogen Refuelling",
-            "groupNumber": 7,
-            "videoId": "DItHNUvCVv8",
-            "slides": "U2FsdGVkX1+GCSh+uxNNylX61K2a24JGIMWZADba9tS8Rmcgc7xWNDxtfFMZawUWDrbNA2UpfhX42BqN0oDwQ3MWXN12mO4h3xDO16Xdto8eYRJe8mRhF7idnMz6hIk/s3BP8RnJ2cc0eKfOb0Z1JPOwBmbaJWlw8ts0foezZZdvETeY5Lj0IZpamMjZpW5AhFqgKvSuCWKwBRCMGy7hAlrQrHtXVinML7zcw9q/EAlFmsj+Ju/OBPqvSUkTcSi975+wWDIieVvLBOi99Q4J3BKUVcNrVSBOHVVr6KtAcBACCA4vR/qwE5/CcRwy3kEuQFvSngv6elVqMLtuf+NkLPNc7rElP4aee/k2U+1RDEUOj68Y9FqkhE/+XTeSIKSNqf5sBsSMaX2fXLIZAsmyPRbbnsu/74pkSjr0wAIjfjo="
-        },
-        {
-            "location": "Lecture Hall B",
-            "topic": "Starfixers, Inc.",
-            "groupNumber": 9,
-            "videoId": "Zm42Ygu3ap8",
-            "slides": "U2FsdGVkX18Wj11QLt69VnnXIgxV9YvM6TUrQDc+NlJH/xrK1RhTXO8fe63/84kr7096WaydGX5yDA5C8GO9FMUSZsRaxrjPw90xeBG/fj+F/EHWEcPZfgNKodMIDb0cqNoHxSVOBZup76Xo50dQsa22LwbXg9K8K5Z7YS5l/qkIk40IUQOV50I/uPGQnuWIP9BGVkWCckfqDccHGg7HZHVD04D6+gGiA8JUFicQLW2hsyXIORSTgrVnJZieIs9I0VNHu6WQeXidMgUTpFzH2CHMQmopL6+roynWUcnAqHLjYWVCW6BGX8Xx6EM9XsGYPJALfA08yDQa2co4WadYSlIpVjPccQXe4UEauoo8kB+lYkTau7Cm3kmIRkf8EMsVmrCzzIoR9PYO0wD5tAL5A3lZmU+528DpEoYVJMkfePA="
-        },
-        {
-            "location": "Lecture Hall B",
-            "topic": "Life on Venus?",
-            "groupNumber": 11,
-            "videoId": "QJ7ELWGV9Ec",
-            "slides": "U2FsdGVkX1++1yU+eddLpksZTfoVTtbbHFDMMCkUjiJbk55hJ4XY5neHNHFG5TVe7+eww3vHp3Y+HtXyvFSEQLNcKfIIoTvI8tFL5jTAjIGQq+xcEzm3xpiHn0YNenFfTtzRsvYkjQekJIXUUWi4Q6g/l6id4SeTvdlg9iS+u6/ZkDybprGrmm92HnCN566SWubiCaDaYaX3Xt/GMZGIkPfxhdrQEYT65tsQ/OiwyuRHW460Xb0Udf4i1eQxPvuv362yCidVWWdhQ93+TlxYBgO1K5wvglT6YZbri6CaPVtuTuBzPg1SG3fAQtXVOXUOYWu9NfHpj5pw8jAAMHbvejgvoWUNNt8gQQcbbTexuzOV9HO0AoU4Bol15ZTdku0yENbmjDZTZPFFNvJpcYI6UuKGxKlYxF7/wgE4Qe5Xlc8="
-        },
-        {
-            "location": "Lecture Hall B",
-            "topic": "MarsExplore",
-            "groupNumber": 10,
-            "videoId": "0W06RrNrLno",
-            "slides": "U2FsdGVkX191MMC1K/rQ2k1R8pQy2NINTmVqfp57QwEHBUtXf1U8Uy5Lfx082Za+dTGtIn1TQaq0izEnXv6XtPPu+hdZVomjA+tpZqxrD2KrL0p0KpN63JNS1SX4hilmmrUu5JK0ZVxF++t6lZiu1vZ/o/AYXoRkSrGlYPi6OPHxeyhIH2rc+sfRBal0wdkgmmvNduySX2/cUl4LZCVvevM7wLJMdQCibk4Y54zwhhb+aRnkIGL18Cz1sLTmVcerlvcMNCrjA7VScPaMuuEkPy+YqOAvnMvK/wSElrOpaxL4YuMwZeXqfWw2/V3e1UammI7oJTOaTjjO/nc58Q6L379Icb7iFsyTWk5GP4dFvIwFgycydxNxoL5eXVg004PikZX9Ong7hQQBJJ3ZPrEwylOjZL8k0mLlw/T7gflS3uI="
-        },
-        {
-            "location": "Lecture Hall C",
-            "topic": "SHTARwARS (Scaled-up Hybrid-electric Turboprop Aircraft with Water Recovery System)",
+            "location": "Lecture Room G",
+            "topic": "Conceptual Design of an Atmospheric UAV Powered by a Compact 100N Liquid Bipropellant Propulsion System",
             "groupNumber": 1,
-            "videoId": "-35mcViR-X8",
-            "slides": "U2FsdGVkX18x6NzHN4gHRZBRLTJzgGjL5GbAmEmgxrmnaq14DCDIK9JghYxVaQvzXERSaSGOkjSQ7KfFdEgBm6lFGmkLHkvXeb4w1N44brfYsIe+sX70aaJdNc3uT+mQeglS8Xro18iTTVJznSKpghH/0DiAip+KfIWzFSbDgGINwYP54nvMS99MILwbr6BXQMnfpYEPy+Regmwi2+utGHt0tVlrnkbSSE94F14eY9/tvjhHAjheGBaNcD7OrV0l/i5PncVTkc6yeBj6p+s36DajWHUFoB7pxkFgR2vlQCHfsjPpMa62r1LCGfKUtyVTrqr5DI5GqekygaQ1xeht7pg7799r7Ym9MzOtaWQJchVZMKhTeHeg/KGcrysF5KG+tztlmuM40qSZug0WxvWbJc+S621rPUVJIL5f72SLm9w="
+            "slides": "U2FsdGVkX1/dqonbDeL5BCD/QAsxl0S0HesT2PGsNNC3wKOlThOl2XzWnDLtWfoWRawVHOYHPH7jT//Y604EgLHk2HRhlIFmQBrzAMlloTJZFcwObiPe6SKIaJhBa2OYPST4pjYoxAXdipe8eV+p8Wmld37akaiCiv1Q6qRaBmIcWj8GAFslaYTXa568oPvvXdYPP9SLUSnw5ZWYscIXUxoyYYM7sFug1vd0hbI4DYv4j7zUExTDm+L57c2Rry8pxSBZDY2jVC+b/6YF4pqc19tyoMntb4ovjPvmSnDYj/pYvYTZtOjf4ehga0/rQbQputZbMfXf7vMTPvh9ctUkBxR3Px13r4MKH+U6dcIJlLj9k8N+Qu+k5BSmNRVddKKnISm68hazouYgZpHKquUlyz2su449Y0uOEvvOl4gPpf0=",
+            "videoId": "J5tQGwcvgw0"
         },
         {
-            "location": "Lecture Hall C",
-            "topic": "Mission-Ready VTOL Firefighting Aircraft",
-            "groupNumber": 25,
-            "videoId": "KLHNG0GKnd4",
-            "slides": "U2FsdGVkX19fy/FLLdYQ6eyEoX0yB/Ht6F0AKZV8J4sh6/n+VzH1dq7wqiXs1sl0ApChboOmYnEBFG+hB6MCzK/zHRQNtFOvUp1WE7Hcr93o7z0jCtrQ8JP7tBkXXaAUhEOWBDrXCbInDLuZeOPmaojGUfnTrKWYQQhXd1xhUfq9dTxfGFkLwbIu1piY5b9dueN/bPEkf/8i75hiUoNkOrRE86dEkQwHrV68jErVY3Dy7XsPR64U6QKsZbWcE2SalMoO8cy8o7A6ieFQiuuiPJRQa9C7WWT+M8fj+VsM/GKxitNUHcdL2d3vD5dF3a51x4nN2kKesbcoJ3B6ugFs3ELBxmXRM/I4hE76UZqh+LaVMaXgXFpeYj4YNXtzUgGSNgUUQaypUMQPBoe7taENcjCF5gzAfVlAGM4+08IUtCs="
+            "location": "Lecture Room B",
+            "topic": "Wind at the edge: Shaping Longyearbyen's sustainable energy future",
+            "groupNumber": 10,
+            "slides": "U2FsdGVkX1/fZogbv3LoMXQBqYeAzpHwe+WQGwnfzR7XGKuaX0K/RDIm6OaYoJRZh43ViVCvuV13+2QB0SdqOG1U8H7majugBSJzhMYnZVrbyeNU2VjFK/7ZgUzFrQ4tiD8ZiavRKtUwFgIjP2XUfVPoOLsAquYdweOs6eaT1pDZgerXbfKvd+2hSGxb4zhFGTuZscF6TvgyjdYdAYL6Y+fiWfaEWQtcWkd3+us/jkVg+VQF1Yh9bBQbJhJ6E1r6FdNhFe7vpcybxmBxlN0GGOMixYKW1k4rNiheS9RvWxVkIoR2YWLD2aDEo2pCm4W9aM9GXEdDdpW0dKbcX+LBmmujna6Xvg6zBKgKFdmdp6+aX4PvKcgPBEk4YWP4VzM4gZLFGOu8DuItXK2rB43PicSfNQiUoJ6KsBT6AgkBOZI=",
+            "videoId": "XwdsMOWcl94"
         },
         {
-            "location": "Lecture Hall C",
-            "topic": "COPOLT: VTOL drones Charging from Overhead Power Lines for uninterrupted operation",
-            "groupNumber": 21,
-            "videoId": "NgFjT6q4vdg",
-            "slides": "U2FsdGVkX181p874art+vIN4UQ8Pt1ToAx3vbEdw1W2i0+4YoeqgE4uflniv/RHzXa+aCHwMaKC2vyzRVK1HgVaqF1Qb3Icvbw8s1v+UoVRwX8u4LmlAU87zcldTzO4DxKxbuCKDzBsJ9MHmmCmklpD0ZobhjJ6i5fhtM8zBJb38LOwGgWDW2sJybgdGIIwtUcQxZ11saawOU0knuR4SuMvfUI0bBr6r8971dc4XpQo+ueYxKiEcGpqBJ0qjjO82fdCaXFa3P8yb0Ovl/W7ew2Mj8dWapR/kJVFZ7Jogm4cQyyWSbtd1ZxXuBM7AO3c9i611Rv6VHyaxZMuUL516l10JpsyJZKRorEXIDtfkcvUytT9WlWHUyA+riI9IfSHYyCpY50BaAQViEoqWt1JMPMOMsbVrN1FzKZfpgQ27vMM="
-        },
-        {
-            "location": "Lecture Hall C",
-            "topic": "Cost effective drone interceptor",
-            "groupNumber": 16,
-            "videoId": "rAw5m7_U7sc",
-            "slides": "U2FsdGVkX18Osn2ZaNFCvtOS1G3wnhgWgETea/tIPRZFG07cbPvzo3NfpRkrpuVdyGYE4yRVnOhdgYv7FrRiY1zQO7NJeEHXu+Rp8cAdLRzBlGlSUnc1YT5tdSZQ+s1Jz/5WX0Oxi7WXEaF5aWxm5H4Z/nBOviYDR5bBFFFgFWW+4prH4VBMUMSVeTHZpqnM3dDbkkY0ql/VMEeD2t9SXM8X6wRS93QM++ORwPf0ROiLWB1rebA8aXowtkoyb5s5F95cVbDurgeik+ABGPtMR0ZCf/mMetviFyTPWcyznIInZI7mVyOeGb8dqQsi1SvxYCDAebr5MmG/lfyivEXVN4Ej/x08oQFp5v7i9P/PXCkIBJwhOKMnz14hL/IjxRe04/NFUEHS0tmlnzGPI8RSrUdSlYlV6U424+QhYNEQp3w="
-        },
-        {
-            "location": "Lecture Hall C",
-            "topic": "AeroShield: Fire Suppression and Oil Spill Mitigation by Drone Swarms",
-            "groupNumber": 26,
-            "videoId": "Jd8CvZT5e1s",
-            "slides": "U2FsdGVkX1+gQFwlewGSUJzFMu1zbWq+lyeAOo9Y3yNFbuE7sVLKuQjD2IbqA4AgnxcBEg3zcVekNmPeYIyLzvqL2iZSi38eqs1qGoKKG7ECSgwUMP14D+5WJNcqQ3FCrkJmWRGA3irf7Odw4fdRPsyUDvMffMgRoTbo9nIirYdhHfTwlFw3cSnQdOoGkp/3b2gfagrRJjUkd8M+1gzxAn1GRhOrze7Vf9RsWYfbWfsyDqtEiR+fAI4zVIBQiuLRs8s9jNNlj0TonfdReXCy6oFTRy7fxmNrGDGQLt6XLBc83V0SzEksGkBtovFL5QSp8yZzA91DNhKWhUj4FhYOPwlPlT/NsB4uJknx7xjzjk/aOAHohzytiNH2emW8K5P9aU0znXz7/c50BCQRu2BtVB0b10diRLEhHofRG5UL2Hk="
-        },
-        {
-            "location": "Lecture Hall C",
-            "topic": "Air Defence Drone",
+            "location": "Lecture Room C",
+            "topic": "A Sustainable Family",
             "groupNumber": 14,
-            "videoId": "Dk4x1ol8InU",
-            "slides": "U2FsdGVkX18yhgrHV0X6CjO13iDCdVE4mdSlfymuE2s6lvHb6DCekKzumCtZic5HLsoqi7s2ZAZP1t87QxHH4eXCrZXBuYTqMfEUh83MCQ0OQmPK7+PPP7R0sSUJSg4c6D6RcrH1T7PcT569EMqkycRasI2a3sL72onMvA9mQvcLOaQK2MSTj9P0D1vHe9gZ7CNfI2uopTmNQ8lEEMsulsvNhHsPaDQFI2OUq1Yb8tY+ZP9t0fyWJA8fnb5+JIn1S7Y1mNFPjWm8/aK85vDrxte8Jns4eKQZzhS7ulv68nfPvODMkFnHslHtDYXT0JO9XDgJFvV4UwCq1x7GjL2RcWjlZeSz6I2kl829BYe858+SafmuPEKG4opS782vskZAitLLflnpd283WsbvByFGbij4bQrBwW6AReWCEq2REZA="
+            "slides": "U2FsdGVkX18hwf7dOGm74m3Jj3Y+baCRQsADyPXDm6y6sRjlytiZsvsn9xBb29pQ12KQTJFxh1kSM5dqRHHkBxvsH+u7W5emgTkNk3XnDxUarKiiffGvfG1SWY9sMhStVbySlIiyGenYtlFG6Eqvbj1UxrGvA5CvRib3sKu6YueiWISEd24mcTD4Sv0F25+VmP6QgzYo3YA1Y6VqncYqDcfl3c9q4q/5qcDBR4mgQAcrmnHwmSKXHcwTP4H+xL8D1ENWLiu6mPBunXLyWMRXQFsDgMJx8RdrW4etZ3VXiRJ6GGebAvChJMhvEexZIWqHLTvPDGowZ2SLkHTKYyQVu/Pdc6bO7XBsxr/GZ6v0MlfD+wfIs02H0tnk8/v8eg0VlcXEL/tBYn67fLnqaJJU5JJw2nhZNJLsbXRoirzgvF4=",
+            "videoId": "AUIzsFYws7E"
         },
         {
-            "location": "Lecture Hall C",
-            "topic": "ATLAS - Design of an Articulate Tube-Launched unmanned Aerial System",
-            "groupNumber": 31,
-            "videoId": "RTji-suL6As",
-            "slides": "U2FsdGVkX1+7X8384LrVAV5+2iRXlr3cnn0PiXVCRHWet9zRFrB3oF1rsBXjmgladPCknFaoBKiu3RlzV/kcC1PDki7AcbDJOSpRMy5HrAE03HvKeqVhdFFOFDGWL+4cyR5tcnkZW2jdFRTlsYAQQZgI23Ccn8nAeFv2xX3rFQ5LORBttqYAuVdZhF33udUyBC2AFO27/McztTL7q+TzBVo3W9cNEcsEk8vTQisNM1RkQhjhBklnx3wmdLl4FzeoKw5KVFTZx5seGoQEEoDsiCYOvKDQjV0wiUPMIThHJTcPBoCph93z4OYkVX9bZ/gU+g2DY8BmKE/tm/AJGjwLD8R+I251okc0ICM4A7ugzLX78HGGUYxLu3pbOuTam/TUvoTi+gnk5BVGo6+k2UjnyzyvPEV1F094RxyduzqqX4w="
+            "location": "Lecture Room E",
+            "topic": "Slipstream",
+            "groupNumber": 25,
+            "slides": "U2FsdGVkX1/2C9YblLSHDeYdkYQ7esiyul2tFmcA6jJGAc3dZCBNwf+xEGrl7qlSxQ2HddWmlqUuwJNIQi6LvCo6m3YcskcCOfEhMU4oDbaNkgXMSXnnfCO02Ty76KSb3solFG8mqHLuKvVv2mIAk0zxOp/w4vT/xT1FPTa97w1ATIw8WvhwiR/jg5PpAcL87OVe2CJTcNbbGrL0pqVRoupT6yrI7bIT7JRiBeBQhPv2abQXRYGw5W9jWCK8F3pwhlk5RtmLnhDSR4MMoit9u9rGL/E77dZAWaxYfRcUbWBU81B08z2UAwBjOLCOfi9/9hU74Ti1NAEaM0xEWfnCgsq/Snh//ObMLOvjpKIkFrdapbD8V5HiMSTF4Fq1wcxLD2pXSkGIxo5i8bX6s5vKwUEya6+wMWsh94xLG4wA9HU=",
+            "videoId": "y5CEKmPIOSg"
         },
         {
-            "location": "Lecture Hall D",
-            "topic": "Fire-Eye: UAS for post-fire forensic investigation",
+            "location": "Lecture Room A",
+            "topic": "Design of an Unmanned Aerial Vehicle for Wind Turbine Nacelle Inspection",
+            "groupNumber": 11,
+            "slides": "U2FsdGVkX19yxaXH12QHaU84Lh1dN5LKRTa5c6sOaxRBFn8cY6m08gzpfx6r3hDqX/Npr8WCX08jS8AvSVNyvnAttP/fj8QVZPtFm8PQ+tDC5Mfaca7CZg1Sftc4q3YlUhxaT4VmJRF+4K9FuFc2I5qO6P5DXVHeXwTLS2kPkiWwoDbYp3o9WBvFEf6X3snHimQ8yKaK47I1vCXEIAsUxCJINr0nPA/kQoNFOURxA6SEm2z4MnjKn0Aljt10Dqo92wQV1tuaQIT88yu6ZYT3pmzw3HDtpiw754HgHUDhClF9QHl5oORSw/xURA7r9DYrOY2Z094OMO45PNzbTB4A5gPNZpdj9L/QA9DljpK+zSn3I491Vo5mb/PLYHTkhn75a64o65othhJqAz6nYB6AsnsmHvyQtVazNilOHKu7l8I=",
+            "videoId": "yyuYJ9Dk-ig"
+        },
+        {
+            "location": "Lecture Room G",
+            "topic": "SILICON SHEPHERD: Herding Microbes to Mine the Solar System",
+            "groupNumber": 3,
+            "slides": "U2FsdGVkX199NGavXXNcMtjq3ALrud9EPdOTxG647AUS4kdw7JsLjZOnl8DUBMzi52Emf4Qk3G3eVmh6cYYCezsdza3sQtrksS64AZJO48tGwNjRX2yqSd1HKuX+Wh27IWrLotT8xVLjIuEM/8DxisMqSbMYm0Yc43jPSKC7sKUDZBFHUN34Pt23X9cZeKmkFyaTdKXOp3t8ZfoMwQeYnFL4mY8Ju/Ik3QXpLJD5+OLbpnecv9U4RhPXaLTOknXM15b00+ENdDy92KQBd8QzvUBN7zM8soJqSQ+kBXBx58iPkfPbPkzARUKXqhJrdf1mHtEMEAVRAfbfwVlKluf8vosHPOnP79Br4PY29oKMHTvAEnXJpNid/+vB/RxDYbtOrXvm84M6OoP2veMZDwwNbNe0SZntCdKWWWiiOwmfx9E=",
+            "videoId": "QCcjxwVDYjY"
+        },
+        {
+            "location": "Lecture Room B",
+            "topic": "From promise to fact: recycling of aluminium alloy aircraft",
+            "groupNumber": 32,
+            "slides": "U2FsdGVkX1867iPWWU0dPkrqN65TXRq1uwp0bsyZkexc86nYmh/q1Y0q600h7NaqvacrofLz2qG7kaNt/yIbeFQFlUsQ3cVuPnjQWincWOfQWNWYbwBGTcYZ+7d1sUEEV3hv9SKz1tNbiIWpNojTgs9l4nIUOXz3tChdS6X2KgSTh9YKpWLT59OXJ3a1xcv9g0Jns16GHcatEmqHZhyn1DKSTzi0pm1Xkz1dToLdFBVYbb3AILXb0k7URzSwRX0f2vwfneXBSif3jJkAa7FCDnbxhSVOltNeNlcwgoBM3R7snuTbrFVsakFYv9916taD1t5F7PeGz/ZakqQ5dhKDueQTadoNhQ1XdWK0GZwJkN8y8y2Boi7dM1LXuhCb6FtpnNklTIXkSqvbyRDTxeTqvyvmSwkMuQQjmHGzyCxa23U=",
+            "videoId": "7HeEzcfqtdM"
+        },
+        {
+            "location": "Lecture Room C",
+            "topic": "Prandtl-Plane eVTOL",
             "groupNumber": 23,
-            "videoId": "GGvzOCZo5hM",
-            "slides": "U2FsdGVkX180vmEU8zRblmnUb9ONj8suYz47tKUudEqBM2f6hjEt28RS+WssEGUC4gIVH9I6BrDuXiX33MWT6CcjnoB/tyExotGp4/FAFWTdz6HZ331q0CotBb+2d0I682niUi6S8gWy8/4m6+qbs66Y8UWGJDZBG+3ub5fyIetu8RS9yBUNFD+b+qgyQfWJR4h/Irr5TEYfQN15xi5Ym4F3gdqvDcvs1n8tBh/rpxynyVOk2ve/aIyvnPVyhr05H10d2WwFhJgKRnl4iMWATg2N5NQ98V9syA7gvB82Kvi7EcOroL4GSsFKjd5YNnDg4sD2AWR8cPM7OPTA0UsvjB+rSxFnXYttVOun6tiOwo1hBG2lYahFpRa2/yYtHWKBHrP7TNy4myHOP5UKT6wro3ZFTEXCSVDEi7r3Czz7Jjo="
+            "slides": "U2FsdGVkX1+7mHiiRi8rhpw2SLmpuyC73/8CIfjSrlhclzBx347B5kAJH0J/vOkneW7f4bWilcQbxWPNHPy+iQe4b4z7z+QckLnJjfNMxHrImTO92bksQcNz1dEFYR5RxQM3goJMZTB66jMbhNqgYmgI8ga6qNVt2iIzM4N1hSSbV5kozhpyE+1wW9wnZfQ95xlkHdhjFq0QCipF9ZaT4Wiycj4pG1PHkN25uj8KD0kU6WEl/s97fBHUv59Ns3qqv6xR4a37DRGdrc8D7r/5IsavCbU38dI0TfEhtPQwgCnHPYsYTCR9cBJZzIra0qUU4PLi11ZCInLCfxhrEPRlC2VTk3JnlyV0m6ZHILZD27yxN0lc6a1jH2PA4qoSCGQSUIsqTGy441EDszGb3utMd+N6ohW3x3WUkUpXn2Vh9T0=",
+            "videoId": "E3Oyejps7Z8"
         },
         {
-            "location": "Lecture Hall D",
-            "topic": "Deployable/Rental personal air transportation system",
-            "groupNumber": 22,
-            "videoId": "o-DxMXEUAFQ",
-            "slides": "U2FsdGVkX1+jJMnMEdLWPPTBALiNK7GyYRG2e61wvvs2A0nhOj6FSMcddTeLD0rnfLlLeyFgF30y/Gz67NHLZstv5DDaapA63RnAPPWqEc9zfgazb+tNzyBMy2TyGScc8spR0xnEQEewNPj+g9XqxffDJcFPce+UUtoYmUUcx4Ds5hTbSbgjh0dMU+3i+opkzuCULnhuIVwrcTBVd8mlnnB9OVAYbq+Y5kxbXZWuy+dZ1FmYYTeELzas12BeycCa7HQSeergfuDgZP+JjeJ4nQeNClBL0HJqtyWKUO5SCpGK39M902u3u1GsU61vCkBZHi5WSwJv2hlOYXFUlAB+Qx0XtN/5JOUlfe0eSnVzyWpZxGnKlmwbDL1AuBWUxIRmphgZV1XtJK+pwMANQPSu9Mj0iezhKjcSgPqNYQQfehM="
-        },
-        {
-            "location": "Lecture Hall D",
-            "topic": "UAVs 4 cycling",
-            "groupNumber": 27,
-            "videoId": "LSryOOQs7OA",
-            "slides": "U2FsdGVkX19/SimsqfqDLs3t1T7sm2jJt0hVdmzqYawkPoLujAAb1sSomNZonfSWRNnA9/yGsvqmyqFsnlC4ni5KuL0OzdqwJZSXPal+Qomjm1DgvNZoTuLLw9HXH2M9+cDrP7TlNNkhnFrNSnKdi3xW+oS6rv38eGleh7ljoNAdK5CR8VTmzbCo3/xzYYMqRoTJuJ8Lz7eDkYrzlWLdQWSz+dVnw2YM5lcrXtYrsf5cLCCorGU3f+D+6sbgYJntaIuyysjqfR2apHtJXUdypOSD55e9obIkVJ33cVpS2T4CafM7FgoACLoe4qT/x1u25xBhRSTLI2TIgT9Lo1OiTkJ8ep57q//aY9DsGSJ8gA3ZjbL4YtOpPxsn0MfDV+r1QXf3eYFQ8vZQc3ZQ3ouSdEB1rPF6LcRl1vAz7eYx4ug="
-        },
-        {
-            "location": "Lecture Hall D",
-            "topic": "Design of an Unmanned Aerial Vehicle with fire suppressing capabilities",
-            "groupNumber": 5,
-            "videoId": "8zUYa90WSQk",
-            "slides": "U2FsdGVkX193RY57q39Nb0a9goOq5aVL4YKSiz1wmb+9K7n8IdkCehS49+6KnGuvLZLTlNca/m5zJNMgUC6Q1HISG7yQxn5WY5auIa6qU2qU+tT1ZpUuQdTbmlynUK8yWA0OIXrunqFuzDVTMoK8JqCO6i0yoTlddasWkwywyVVbEne1w+JV0MHRTF14qDtbP/bHD2+5UpNslw9lxhPptmuZ0p5mazMq70px4F1UI5cJhBQ2BxhPLJdJCHSDtdgBshrbLYU77pTSi588qC0DbI9kpsL82p9/YO525t22Anmu6Qw/05sAC7o+3+oqkoK6rERgA9y6Qiu9J4MTOyVDIzmjNOVym3yCaIDt/V1P/8DTryPXYCTTDLg3GZhfTXHE4zrLMQJ7pwb8E6an2cyZVXPn9HhWBzBk+gjWM9XfIkE="
-        },
-        {
-            "location": "Lecture Hall D",
-            "topic": "eVTOL Ambulance",
-            "groupNumber": 28,
-            "videoId": "uxT_4fS0snk",
-            "slides": "U2FsdGVkX1+6zUhzT8docjpDe42KtkBP9UkC7R3DUlyUsXizI9/SCshv4tZuPyJg1WnffxfRDZvwn1ILkLFcDOFRfuv9xL5MsB1YGkwuYB130E295jNpU4DVsOlboLBmdICrDYPuz6hykREVUqU1x2Prrsayymh6Hl7v/1ggS9pH6f9b2wIHdU33TbZ7cFKxjlM8UyKWwWwMqSvlzFAazVJyNPhbRSQtPgd/BCQkSCiPqZALzXpNKfvO3VqmyXBnhHPGGK3ooEwzkz15OyMm9Y8pUo1b3a69jsBb2I4w1Wu9KmkFD0cleBz+KMKgSXKi+1QpcL09RUtC8heFPlzn/k6wXO/SPhRYuOBTJ05lA9KCb0gmZBCPz3xzpr6r1Gz5p2RvZ3egqPSaFpYQXgfKgqPWE4S0y3PYXWOJRHb6FlA="
-        },
-        {
-            "location": "Lecture Hall D",
-            "topic": "The future of Helicopter Emergency Medical Services",
-            "groupNumber": 4,
-            "videoId": "s4e7TrLH_Ow",
-            "slides": "U2FsdGVkX1+dGzeCMWcnQzNlM0tslQjFuknxZDITHGnHRf6hR4hwcuJwt1i7URmW2VTFDTzw/BlBCYp3q6aopN6hmIjmcrbgo/v0fsWirC3kBVz0btCsaqG+2OnTkp43bZr5Cry+HyUowm0ocWQo1wzLcC1ySi7S1uAmI7LGebOyovb7kIJcu9LyMYOlt7Z3iIPFRv3hyMK6Nz0k00NjcJikxy4ppApZtxNs8NF2uLcGez3w8Yk2bmkin3i1dxFc+pPkVJcdysYDL5pC4EdSvcx5vlTvAcSJ3/89E+t/31IBZ48HeuepmHi57sF5nBWRmi/IY8ovrwl8OhxGAfciqpmv+1yljvhH2mc1OsdwB7D8rKdJgARDOP4S9awXFNRWyQLb2cS3+2pF5lph/Kxc9f9aCaiZjNmYQVVCfPQPDYk="
-        },
-        {
-            "location": "Lecture Hall K",
-            "topic": "SpeleoDrone: UAS for archaeological investigation of cave systems",
+            "location": "Lecture Room E",
+            "topic": "Large-scale aerodynamic wake survey system",
             "groupNumber": 24,
-            "videoId": "Bl2ZYZCwD1w",
-            "slides": "U2FsdGVkX19+e4fsWorsChM4prMgwjcvYIK2NNT47hm6Ne/NqdciOpHYBECQoKx5RQzpP9O+NtW0aEtM1ktWqW2rulRIkNkY7ilPdLTVNs2tl80k4f9OqoUnvUj5kdD2oEvZrMefBavc5PZ+aldQPrMUW/CxzjJ/Edfb3bcEMDuYPyZhMtg8USE/kl+eUHuErYcbkFQzLZKKhWpq0+UgW84fBcGodb4a9rJDplBKtZfOXEaaOspOWn5SpwFol+/IVtF2e1zpqIu+IJ1N1SRoMlf/6BubwUaeDvPJ6ww9m1tmxw2q82cmwx3uoHoaZirWeop3iI4pzY9HHbB2aEPMqvsabRnnhdax4Rt+55uA69uZI4SifkOGYXAC7Xngh21xOOad57x4dYfUbuVdyaOklqr3pz5ZixwYnxOfNIBNFgk="
+            "slides": "U2FsdGVkX1+RwtwqbLq1nP5G4nvJ3jaQ4CzWVKDcBnQYU0v/uSi6hfbKNDuCntyu4d4NeWXx1OvE2oQDmwPt9dLS8s/Kv1hRT6MYZGNN9ZTrw+1X09XbL6H6xcvp30VXRvtfj3K7oZGExCKaDhh+dA/1OtiXdKj4XUZ/wTWxma05NFtnTdJOrTNONWn2rAXcHxJciDusJt3nq/wfXkdZ5u6FGyeQjcQ5lpSnVEXX374EVdhrJ4XxZHGiyUetZa0OE2CkW+HHszoBksLeB+FbALxxbcnYrasY4m0e9CLZ6i0vN3F/YulBzvamtqsp6/eBbnu2otD5CvP/Qhdg+/iA5GVO93JpHfUBhAbN1kOdDcHGzEjf76CSDW/gL4UHdk5DcCgLiexQefjunCVEMusgwHYRnwc/1ChgUAR4YHNpiPE=",
+            "videoId": "WOZkgtG6q3M"
         },
         {
-            "location": "Lecture Hall K",
-            "topic": "Sustainable and Low-Cost, In-Flight Aviation Climate Research",
-            "groupNumber": 17,
-            "videoId": "FIQQ8mE3wBY",
-            "slides": "U2FsdGVkX1+An4PvPUCxCq8zQs8pQHY95xaIa+xFe6YMYdaAyHOweeacE/FhKThHB4GZpPIggATcopAhtvsczVlm06vjJeZVYK5WCCX8CZxcoeUbDd4Y7ENHmk8+UN/NTV5QGoIymSHsCZV5+Uh2v/xTAzINWDHJhMZMFJzvPHIERqjmmwe686vd1qtoZLVxBbOYoXoRqid9owpNTMxMA4mZlnOWUzsUIPBU1ZtKXo6C/3tiJGPYBtzj63D/8GAFgpqmZ9DZt6ba920xiMZxYbvhjVVSD9FgMAJIUOj8kWYUTdbzFANFZ/dP2rXtgRx4/FaD2OdjkVc25RyM+0Vp/0oU1lNyWd3SJhoQQpFkwjo9S4dYNO2ljRtXe0Mx7IysdatVViXOLccWyAZbQFSvqLSefnhpW+YvDOm+WZX+4Is="
+            "location": "Lecture Room A",
+            "topic": "Light STOL aircraft",
+            "groupNumber": 16,
+            "slides": "U2FsdGVkX1+RWMWtck7sPSk3qh2oZkY1Km6Cu6tg+or1EgY7vbiHybnTVdkWbwKVloUIk/PvNasCzNKhm6wzOOgJoSVFcGwwQ4BiYFhNmSGgU5V+ypkoWSMLCdx5Vbpr0e9rsWgiT+Ms3Db3quDpufb5RhECTIIG3E4sK/WVKOAEE97q5+45t473TH1pU0pmJ4F3+IKajaJ1nJtZyEOIxo2KtlbSNzqozkP/b/lvruolEkeoFEuYGsL720FUn/dUY6qu/ulSOzCF7Ao+7SwMyWx9cVaECTZlSFm8WXZg7MsepO9EM22J5XqsP6dOvf0+tsqqrUTBu4d+JMkx5lAoGyVDIV71PHG1BhiPsWQOcPk7QehIms5ZOIfTvkAvywTFP7gOY1tk7KzRsrnTJsQ+IkL/CDiFoQILrR3l7VwrLfk=",
+            "videoId": "PZNwr4FLxOg"
         },
         {
-            "location": "Lecture Hall K",
-            "topic": "Ekrano-plane",
-            "groupNumber": 2,
-            "videoId": "1f3rxNfSv98",
-            "slides": "U2FsdGVkX198FqyJv+INGC6BPrQ4fZ1fXpOwDiNeth95EHbfGW5NQFy2mnMj65tT32fTme25bDMq2tW9PGuwr98EJSEF/vvM4nFJDW2NHbHlILkTnm3GyhXo758NYGCScG93de4BlpsL26Gyys+gDersyc0gLpEzC6nkJ99WU35qr/iRjpFjFc27l/CCE7i0Ow02ywB1MRQ4zGpd3eEXYkwDlxCiG43AERUlrk6lJSshq3vb7hZ9oZ9eKUIBd14/gHaaj7KefU/x9nxmuxb4HEbP2UXvvVcchYrChq0+nkCwM5psoG0oCi4OjFGQ3DCQF9k2UHqHzrdpHS2OXKZN/P7y+6wY+MpQsEohOvmHeqkF/d/Tnb54hd6xKLHbc6uKmEonO0DRzWYJ+ZLrJ78lw5iUNViZveD761lZZKH8ElI="
+            "location": "Lecture Room G",
+            "topic": "FEM: From the Earth to the Moon",
+            "groupNumber": 5,
+            "slides": "U2FsdGVkX1+J3AWfyka89d+R4HzSTNabK7U5wGnlI2+ReknaepknskCIsXCSv2pvxlUxCvPWI09o3NpnLlFwiyO+3Kzgyelm3PPgHWKQ1zMg0Knwew7PNLQ5K7GlFW4BA1FZWa5SKDDiFKH2kdjpuCpyMixWAI/SzXAQ6c85ZnrgC9LAfCEUcovHwbqTRA7jnyZXwr1ANTdB5jqCuZrrky/vYIESrCp2hMVz+SUAitSUPfqaILQQwp7N/5G01q2yBnMEQ7U7XDXRxNZ1HrHN1kB+qsUyl8InJymq3tmeK8pw3Ips633A+TtFXN3QUM1Q7iIymnd8JvLfEflxLkR4XYvoO2/MZRmG6QPOPaVT2CBE8kYDXC8d6O+YqjaC8AhTpMk42CWcQ/fsbu/DkNJvP1QQwmrtfwvenh828KbSwVU=",
+            "videoId": "GjlBzApwbkQ"
         },
         {
-            "location": "Lecture Hall K",
-            "topic": "DICE \u2013 Drone-based Intelligent De-Icing System",
-            "groupNumber": 30,
-            "videoId": "-lZ-7l-8ots",
-            "slides": "U2FsdGVkX19wDWCl6/WyYwOPgFEXhi6X8dCA17prWwp+uhn+DsFHsWyLXpNkj/cG0J4NtXuaQVXe8fkRxN63qCp0jW+xGsmvGVvLpqNeUvgWXW2TFNN1+7M1p89J1Bt5VRrd3EuRuQ2xvtIPAAZ8w4uU8dn3LyApNlqmqZidq4kbWwIYUhu77yq8eJkM60SFbkJ2/3Kh0O/92PzmOpmNZotbw1lD4S8az/kElLHv7+u/cYa0K5VOHuUMsEvJjj8ukq0uSbpgxc7gjaUtdT/o6mZaBQr99LQqvgGVqJJUdpTHWvQT/iYisz5jAfEcZykgWkoPZZk9ynxAMlR1rW4c4VAgjGFyR9TaTkZdLSVbIyAUwZM8My3EZSbsX2Br6oh4JGEE1Xej2ohbMnPqNix73cl9uXDdxNossCKCuBCjX5A="
-        },
-        {
-            "location": "Lecture Hall K",
-            "topic": "DronebezORGd: designing a fleet of drones for last-mile food delivery",
+            "location": "Lecture Room B",
+            "topic": "Spin it up!",
             "groupNumber": 18,
-            "videoId": "oXobA4nP8qY",
-            "slides": "U2FsdGVkX1+ZsGmYRqFxjxnlp1L/Aa+3FPT4mJDTP8qmuXDFi1DmzHvJWMUXD+CSIAPN1AGn36mhtJUXaD6wSyS0we3gSXLC1MpJl6ZqFk9/Pdg8XWKbFKpB2BGcCsqmnPoFvEXXlsxfDNPheszoULfWGEbnW+DE49f+YjUePKKbjjB4wTrlO/BtbM/Ow6bBBi0navN7XqQa4iUPTZ1rfBNHJ+m2ThQzKtR8vlqByl9hiVty/Qe1iZvbXo6iNgNk+6WoADbS0PObeq3IeiPhnRllKhZyKzGjAs0K7/4k8i6WZvdoZgRDFFiLgEwbUYsJXi3J8MHFcvmcoKWn4bdMi75tmruXVyjkiqAa02lZbnzf4Gu0nk9h2AHrSgYMUq5L+wewb/u55uyu0TlU+whtuNE6kX6XgOTsT7LJwoFJ/UU="
+            "slides": "U2FsdGVkX1+nohDxMHg7Tld+MJoRH4phXBeR2WPUHDtoIB2vOMu1Ctd7g94ThBaZL+ayNIQRxiHqdeFby4D470caaWQmoG5+XpZwSclJnKs/WEqtAjvRgxMzM8oRYslVJeh2kt+H232YiKH3VSBkp6z3/AJMWA6pDGpT8Z6dAgAhMkBDL4VOEF1hDO55KCj6JAcwSitIHhH/rIzufOg58cZTqMAtlz9InWTq8S9ApJp/+2QuwZ+rLs1WaFac3JuByAP0l5qTBJsKHf/0DB6IQe+KaCmET4/Y/7SP5PBucc8wy9Ihe6RNUFWH9/fVVMOJQWqarogZKPo88BZCLq8IggqQ6+G+bDtrGHi6/nUth/+xjWZv031YszLUeFNdXDGuLDiqhianx2CGYCFRnEOFI0RsjPNhD7/5/3eOKdrV8y0=",
+            "videoId": "3AsR_uhDpWg"
         },
         {
-            "location": "Lecture Hall K",
-            "topic": "Integrated noise mitigation for UAM operations: eVTOL design and vertiport-acoustic optimization",
+            "location": "Lecture Room C",
+            "topic": "Medium-Altitude, Long-Endurance Observatory aircraft for Climate Research (MALEO4CRE)",
+            "groupNumber": 19,
+            "slides": "U2FsdGVkX19M4DRxud1lsZTjgYmG3HkRy1RhV3g0qzsm11sv4zLlQ6hwnjKziySgLPjflBD2CJNeXwfkwe73lE1QYGJGCqxSSfA8gG9kJity7K873vsUZCGTnhfwqJBOWfnBbG/hLfgGpCrJXIzS/KlJzjJFvOlXCjbhU0gj7D/rAK0XbDxrMpxSZNOwZO3BB0JdYOUspHZtULoTImTdT6GfqnelJqHhUmceftZBVD0035kOgrT9NAJLKqx74bg5kOc38S0LSNPwXoXjFQCHoHAkD6nXOdJWwXZXsORCTL65a4jwPDKom4Fzvpz0n6b7TLO2EFq44Cbb+iaULPOEpN8VXOO5CVMTXPSnll1mT+P6jA+30hcXIB0bbgMGgJ4iwqknALtktcAyOrpm3kn3WzPlgIEAXK2+zHV45kia2kQ=",
+            "videoId": "sj3sSAPYWPg"
+        },
+        {
+            "location": "Lecture Room E",
+            "topic": "Post-oil Global Airliner",
+            "groupNumber": 29,
+            "slides": "U2FsdGVkX1+QJaGn/M/v1aMJRCtAF0L6uYZOyBbsLF+wiwXch4Ps5P0H7iFRFIp9NmQIIhiq5BDlVakkWDJRZHBW6YhcqqDBF32MRAbEQAt8zrrPfQoC8Jlo0g+/1ZD4+jaOmWRUCcK5aT8J8fVdYmdomybWhSAAdsRuooQoN0bK2M9YEBgUEoEALDFKX6qiBiqS9L7aDDAMlWNzuJPnoNBVCw2HsFtW+VZdBWypndAe2+Qh7iaz2YT0MKQmR2IVGl9qIH4WeSZunJSJA7SozBSm0EmP3hohJSn34SXTMPkSSFcH/4HkZu7o5yICMYcrOVDs1SQvKBE2gndWJq+J/hhdsHwyvGIcPpR/NpN815snL+4rZaodZXp/yD5rFbMeOANKZN5pUiAy1EJBwHsST9EhCDsmXkLmOfnjen80ef4=",
+            "videoId": "cExOJSldU28"
+        },
+        {
+            "location": "Lecture Room A",
+            "topic": "HYCOOL, Hybrid-electric aircraft with integrated COOLing using liquid hydrogen",
             "groupNumber": 20,
-            "videoId": "ZZsDpmuYXS4",
-            "slides": "U2FsdGVkX18YHNelo07SahM1IcEv2RCyKQH00TA7Ce7Kg7LHaa8xqLahblPqZ9+Gov6smPSDU8BAVhTSVTKug23DJR0X6fwC4timybotPi0+dfsbs33EkEonGdhtdFPesRODPMotQaD3Z9Gs8EehvRuJciqMt/ibcBMigNV4wfB9PdDO5QjWlpLLHEc6YE/YsBVd5KMUL35Y9sNIvj8mvx+n76cusadQojFlPZkdKq0LflZoXc7D6zAwHvRm9zIthzTFYwkG/SLobpbjBnjMNpQRafPbbrbE+9MHczmzmubxRIHZUx28H871hyh1eA9YO5RA1Oojhvql4J63r7TavHwk2Ofe6AvDPF8hOosEd0n8i9sdPqLgCyv7GFWcT1K5GJALDskorJduq3jHPznoQSG+/WkE95dSf8pr9OD+qjM="
+            "slides": "U2FsdGVkX18XKMGTy+eI3RLfmhLg3siMn8nvy3x+exBtnubDu4FXGeHmLASFffZFmck4EPE5XzzTKkimr7y+f7+epYiH4RBuBNguUslBWk+R9/sBhhx1UUirqM13IwqUReEOR4+6rX19alsBb0me3SEX1pTOeo+5VSrSCVdF0q821pCa0Z/W8lXxdgVKTEyhoLc2+MAXAViRE6JbyuQx+3MopBOhbVQmiJg0a1jQL90UAoysEmUr7QMbmIg27jiHqQnAeKeblSuBUCJNENqvFoV46D1aQ7SA5brTyOWQT0DshAw4tGkAXZbG7FoLoSXkHcN7nqco3gAl1O+sfcZIY80dB8oQJFzdpGCiACjKHja0QdQvXw6KSAuiFLZ0xmkHTTRdQqKVmptubs4Cb7dGj6fK0Qx2Zpj2/6DPSk3QSv0=",
+            "videoId": "ouA7jy-wl04"
+        },
+        {
+            "location": "Lecture Room G",
+            "topic": "Exploring an InterStellar Object",
+            "groupNumber": 4,
+            "slides": "U2FsdGVkX18eaGvSprtYKKPMVRtaPtEQkZw0ry+yUDETeJbDIFLIUir/zUyf+4kIyQe8PwAkugFeQlE5wqk/pQZaMC5xGdC1c1OFyxP40OUPiBsf0h1QoSa82NFXxApQVyo3FEfYxieaLQKkxeQTWonbiua0dIZnczDzgubbi1KTbeLivPgaE/sNZHTuEPymHgonaZMTV8TdHlVzfifNHQiPP85B+vuILjD+6X0D5StmL6RqdMWzDooaCxSAX7bVlaJlrxRjWQ0f84sL0DtwUGQ9lbCL35U+gbdY7UFkKHkspMoMELl0jm0Bc7qgK47gG0I5ZUX5sS+rDTru3FtSYA8xcyaE2HyXxLn+Mx2crkPWkX5dAmetU3qBO0d75bfQU9O2tlUvzGemip3nlzOuaP98TcCbEmIslwzvwx9apfI=",
+            "videoId": "OeHeM8kXilQ"
+        },
+        {
+            "location": "Lecture Room B",
+            "topic": "AHAPS; Adaptable High Altitude Platform System",
+            "groupNumber": 17,
+            "slides": "U2FsdGVkX18aynHeM3UKyHFNUce2IvbaA25ERU16R2L43SrWrv39px8Aq/4p7VkseRcaHEKZIB41gLh6eXd/3tr/j2pNaXTFf7NwRWpN1NftLRS0GEJaMAli69x3KyPKeZ+ETxIcE7X+kPPAFwBJfDveq3Ym3ix7MVl9+uXVqupf0fpX78wO0jVcVafbD8QhL5dHdDi2tgq4AVxzcRdhz9gWDoEPJXMmt+msb3GbWo7z2fm76VmHTpCLN/bFlEDbs7gViBVp6+82euRfrt2REnR64FqGLbDSaJcYHR1ZdMd1cO5cktLUZLPqcDNfhfVNVDHPkRXncSGqvM+vsmh7FFZ/6y3VfUspUO9+NGHo9QkfIjkxH86TIIOdC73g4Cbr709y/QFKsXQn941JFRxCbZwNXpFvds7kYnKmlBbNEdA=",
+            "videoId": "TYZ7-XQnBbw"
+        },
+        {
+            "location": "Lecture Room C",
+            "topic": "Design of a hybrid offshore wind farm incorporating surface and airborne wind energy systems (AWES)",
+            "groupNumber": 8,
+            "slides": "U2FsdGVkX198ze+QJ8WEWKVvvlQ9g8VwbiBk9CsQhncM8TwLdtsdHpm6EyK6RoT+2VzHhxQw++LmfImpy9VQOZTJ5G1k5Dec+afVLu79aRFiYUX1LdTArw3llLx/Z7Ri9mxIrdfCJ3oigrAz10FiYBlSSiOb4+N2mBQOS2VdpnGjFKtTnAzQ1fFAcYGLK/17X2rsAXWsMyuXfQtMdyCVVMuRsA1oJX5dpTKoGMQD1ctYM2OgjC9KNfOBZ8627hqaOfyawoxod1aKcRYDhltz1vAKT2GukRFiKiz1h/fVAsZIeygEz3x1LCmNqR97GhXFqdt4MDj6DA2xx8pc5+7HEj+wAz/x+vhkhz3PrS1CpellDiXBfiTH8VUc/9wHT7dEkcvRjiqBw6cf8UgE3eQZAk5L1f49iEluKj6Mm7ChJlI=",
+            "videoId": "LWfEj8NxVCk"
+        },
+        {
+            "location": "Lecture Room E",
+            "topic": "Drone Platform for Automated Pest Control",
+            "groupNumber": 9,
+            "slides": "U2FsdGVkX1/uOzHXF/l0XouZPZzqW8OWlymdPV3IytakE+QbUAj8dGHcKV30RK2sW/t2I4ofyrFYAUxIadWRQ+fUR3ljtL/xdppFSuGedGi8SjTFqRbx/1srxZJ2+JmLbEndvuemFJwiXffK/S4DOSbqnSbb08jnlMfVK/B2I0DbaptBTpZNm/fn30AovJhgkhqGuPANK4G6iHlzNJ32Bwm0MOosnZ1W4lRJTX0k2k70PzQ+/POY9qqUY97j4na31XPP75VE3YLC7NoYO+T4Y8unwkmEelJxFtrb6OH7U+7TlfE49LbowErBOkBcQ1coOuRNAwXZOEnYl7055h9NjlU9DaPtdUqHQz3oE/8OQSNXYXLO39zHzAht76Z9nzGUtoBNiK8FPGtjyeFGgZF0NAXQpf7OdqEh3CMbtFQejIw=",
+            "videoId": "agVb0y8hYQg"
+        },
+        {
+            "location": "Lecture Room A",
+            "topic": "MAVERICK; Multi-fuel Aircraft for Viable Emission-Reduction with Integrated Combustion of Hydrogen and Kerosene",
+            "groupNumber": 21,
+            "slides": "U2FsdGVkX1+/mnUR3EbbJiBrTtvCwxpYKJu2a6x2CiQeM4KQC2J79oRHo4Y5AdcPN/Ik248j96YQM/srJFIJwyqXHEd6lVpcIzWZh3Uz+wMEagqY4w7NzqGgw9hm3YHCYwIUqLJE3xeujIejobAUYZ6TocFi0TAeD6UaT16eKStKyUXQ/fk5COdqs5k94YAE4WZAZVlHPk+tOaZnZ1Dv9O0lsP9ggtw4a0g6CwxYL3OAfJwMFyPM8Xj6VvQii+3RdCCNYcz3lxhk0KRTYaILkfqQbLscSbhPftvOqCAMSbdRdXqvkbCt1uvkZsqLi9J9F6dNCERIwmJwlaE+IJJXZBA7ufxesKgHW7ERYYF0nTLfWQyUNaattsNR9LxTgODRbv5E4FGm4UQrM9LzwfDAbUwho2ZFQLzzUUHccyHvngY=",
+            "videoId": "zMMrn8TopkQ"
+        },
+        {
+            "location": "Lecture Room G",
+            "topic": "A Song of Ice and Fire: Understanding Io and Europa\u2019s Interior and Evolution",
+            "groupNumber": 6,
+            "slides": "U2FsdGVkX18Hunbrwv7jYK4VExZtciXJ3KETmSr5VWwo9v/BnF+VlljmiEcjZN7pj5ABAbLW/QTGpUZdEuWg2wE5n7NiGTRc1+ncw5L0vRsJXGCR+yiauSFu978XJsGnP4mZd0kneabGm8AxJL6wKGx8MaQS8cXc9shPEYP56R+RcMia/v9NaxdA9k+rPYVBfXZuTV4P7C6/geawV/pTI0kTfn6Zf6L1IoJ3AkbScievBdVlirNF8yA8fQNNhrStx6OQwVj69B/bR+Ue6rZYoo4MypHcERod3i7QylwmI/mX9G3k1YsjyQEEJo0khdhWNPEg8uNtB2UXFtj4r6BmXgPdNiSgxdv6wqHrgtuCJBZQKcFqIG4Gik99GQxRGu9qJEfRdK4b9jQlTcqheCbBITnvRGif5LsLANDejYZORls=",
+            "videoId": "Zrgg2eKQ6D8"
+        },
+        {
+            "location": "Lecture Room B",
+            "topic": "DRIVE-FC: Drone-based Responsive Intra-warehouse Vehicle Ecosystem for Fulfillment Centers",
+            "groupNumber": 15,
+            "slides": "U2FsdGVkX1/RWrcMlkS4Lt/5Y7+YaKFT8TatPxk+YnHqQKFsocKb7YepjVfSy0SyKkQUx/uZmWFHpFKnSzyx2DFGT+cTDfOu0WwZEo8fccjAzrnioMBkS2SBxt2MsCdDuYVtzr+eobpCOBr/jlac4l4e/wxLYMHSoCIuz6VUYCugq+Mr4J1xRirz/nLQByiMxhuKITw7mFYh6s8vFGFnlIvbyaituDF8qMConJgd3fpqES/k7EZQTiSoz2GXtteBn2R25RQ3qiQnDudIfpCjB8ZYLYgTvIhx8+njtHPjuOdjoT+PZKWgVBMc/RD3ISz+P4jw4JgQJKfDbBJKiTlcJ1kgVN0X6Pn4CmEglWNgCz/Zzvk+JQb0QvSf8sF7tHx4lNaegSdV7m549m29/z1ZwiTDyD0lQ4Oip9aOLfuzn+0=",
+            "videoId": "LAQfscLY29k"
+        },
+        {
+            "location": "Lecture Room C",
+            "topic": "Mach 5 (Multi-mission air-breathing civilian hypersonics)",
+            "groupNumber": 31,
+            "slides": "U2FsdGVkX18wIVghbE+IB9tfBRztLorq2b3J8VZ/ZCcLFiYMQqjyBqchimnKWR+cvDDBE2oQj39eqQb9bEzhr17Ia+ACGKE8Xj5iJ/YoNYCjM3FS0usDZxMZyx2Ce7/u/JPzKdBfnhrK7xCOGF99Kh1oaePfMYT6DNYXfr9Olf7jB7a+imWBczA6oWMBsnvByqE+CkH9OBCrzrRsVqPtKOkF8DwqO0hDI+fjBMFy3Xyc3KN4Hmz+WrhACCkLMrqTTNpe2b3IbwbXRt7mcHo+mxx3Vdt8YMv6BnBgdq7fqblAlF/c5gphJTRg2VdMKcC25M+wc01LlONx2qj0SgjCoV+J7i1J5vhGWa+0i+KbRT2RczvQGyC50Jm5xp0C0dZGssDwpF/skHywXp7dRO6V8mN4AXmrWFUAGxPwo6iwj6A=",
+            "videoId": "lm5LvN5jJaU"
+        },
+        {
+            "location": "Lecture Room E",
+            "topic": "Ultra-low impact 150 passenger commercial aircraft",
+            "groupNumber": 27,
+            "slides": "U2FsdGVkX19QTyCbibftJNMICf80LkUNsXvOdYTbOro8uEMTpIYztpLx89/gTHpicO7RNB6Sq7k3DhyPkwlRwcGybBvnhv+g228OYgt9/lLuljvl9nC9s9BCS65psFF9+ba8TxO3jtfImsDIXRBhcymEtF1Q9s56XGFttlzDITh2iX3efw6R42sdiwHrB65lf6QbeoB1Vu7P9Q+cyBdcmQG0DCmP/AIE8w/XoWtWx+x5Qo0gXzbaMuvXh3vHDrrF7Mz+hVlUvtombbZk0K9cSBxlzE8qL3dNZK4C1zC8hxiBHEVjlfez4i3Z08xvv3wjgCDl0N4VG1fxuj4EyoQn/nNge7aZ0/heOP0V7QgwFMs66/kps2StrdV77oBQGauBLERVO5QbpTXN8YAHSVEpCZswwLhsG+DqAxMZB7IgXDk=",
+            "videoId": "H8pJhJAhEZ8"
+        },
+        {
+            "location": "Lecture Room A",
+            "topic": "Micro turbine-powered unmanned flying laboratory designed for testing highly flexible aircraft.",
+            "groupNumber": 28,
+            "slides": "U2FsdGVkX1/Fc4OBMpeojV1ZrGnAknYrd0eX08QtUO1A9wWwm88PFwyO7Do4yL7vhurjTH/Mikt6/x3gJKt6x0jOUkRp5LiMdIG0D31ONd/j83adlW/VyQx7QPPHV2NtdsRMniPa4fGmntFh0PELaR7O0pisDcsbcyxm2q7WMDochq2f99OYnhLDbNiv4dLraynElI/MajB1NwLC3oNzPtuVrWagoKBii/Mtw/ah7sfBdxXxWke6y3lFRjNaxv4c1wDsl5jxB6Fz36nDvzPN3dyZngQcX/9Af7GhEk5Z/OtsHa44vyfyv/3tZorWjHJ7YMVXMh2qToTYnqG3bA/QfpXMyCM7DE/jv3kRNTo2jia22SZt6ey3B6J1XzWkVGTbVNUa2IlxjiXUaHEyxwNWt0VctS6OQYBOq+KHRoz+9bY=",
+            "videoId": "BYfND1_uHII"
+        },
+        {
+            "location": "Lecture Room G",
+            "topic": "Design of a long-duration balloon-based aerobot(s) mission for Venus exploration",
+            "groupNumber": 2,
+            "slides": "U2FsdGVkX1/uEGP43Zy3Sd/LK+tZYp+XBwPhbp4FJRx73VW7hLTaF49XRPm2AXME4lIIxkwWN5GZFANiEaiJNKEhxr+6FWtSDlB20nq6w6px1oIAnZSvz37xaNVHq48Zcn0Yffwh2cYQeTxWy1DRpt3lh4crQEa3rXooJn24bktJyZ/cJgRc3riIUIm9Qhk8MwxtkDcauGkcfSSSNAdDlKJ6g8nzAIO0CT19cRMbOiwsG2o2Q3uUDoQeBc2D+VrYNNz1hy13H8RNWBfi640arsHqi7KLkp+GbMiMEVG1Fb8v7bpluf7JqqIYf8tLpEZYfaObQLrZaPd8o4x4GUNVZl7co85s7tm4QadvRA5Ty3qOAtGE6AcsxaiHjSK32yTzdNf+ilVDOEmqLao9WobTJ9St7AJ4fM6QRYnHE/5jB7s=",
+            "videoId": "SwVEbVzSq3w"
+        },
+        {
+            "location": "Lecture Room B",
+            "topic": "Autonomous Aerial System for Safe Balloon Recovery",
+            "groupNumber": 22,
+            "slides": "U2FsdGVkX18yyQa1yx6XcuZuvkDoKxqJgQWh8rD86mEvxorYQynyn/k8BaiBX9L7K5CU4m0aOtvVx19KgvhKyU8mGJgxvbP0YTIVrNrMTxx+SsRR+j9cpq13g0/tVYpKB2NwtuBoj1LdH90bCoafFmiv8DYGT2hlO8dsYZbgpcIXx4y9FYecuWa4Ce8jmII7UQdAaSipIFPPJXPytFm3bcF6Qvu0+mwZsnCnRO2ODSufasgLU/e2bKmra6830MJvO4Txf+NanqUlcjF9LLyM2XZpn8U9UdLPYFXR0AieTJtxKo+K1lvVDsaAw6vl28FlXF/vost7CxvzDSgUwwyDdMBbJGY55xs+76dmSiAvvtP4I6LJZT32TPpqBxfFuQhUdfcUrfgGeiDeqzmtRp5Kfp4eLci//Jc75RAoX/IjRNc=",
+            "videoId": "sutLE0zTWnI"
+        },
+        {
+            "location": "Lecture Room C",
+            "topic": "Drone inspection of large space structures",
+            "groupNumber": 26,
+            "slides": "U2FsdGVkX19eV6Xc2Z/VPHtMRnmb4QeLI6Xzti1TA++Tscn4MpMM0S9m/FJb/drx8J51Ha71IS78OpPWnv4NTRWn3P1WTtDpR3S9Ad7UxnjlJ6+i5UZlnzumWv9sZwjKSLi26hcoBj97EpYvatWHQFQnXXjf8lBG/CMF4mkCfDS+ydNnZ4pjZWp0ow14IMLjCGVsCLw7riMyFEvmhk62JZHG5a9RyRuf4eIT3NDSAdpYNeySB/wcF7zoZc17gcFTfYDb0AMVeYMCPBSX/E7E1BVWjQzrAUspNVgeqFFvSsjXL6UDr86uEnBSfdfsiBj8MUiXb6iq1chpL6YdnjDV8c0e+yCDC7h3D3SfTxa5I02gUMFsEHSmHbnBZKr8ci7X3PjVX+PjkiE+x3oid+1l9rrx0WDmlRxb5eduh9T9Zpc=",
+            "videoId": "elmn8o4VpSQ"
+        },
+        {
+            "location": "Lecture Room E",
+            "topic": "Design of a Dual-Domain Unmanned Aerial-Underwater Vehicle (UAUV) for Inspection of Offshore Wind Turbines",
+            "groupNumber": 30,
+            "slides": "U2FsdGVkX1/eQqoah1HT7++rsUIjSdswTxvf5josWzv8ORKklDfn7vfJLeGMMX1tSIxOSaRxlhSI03Ku7QOFnJLPY+1A9Er35HI8ZVtd48Mg69kQRCE7SLXV+ABjifzz1YBXG2sP7W4kkalvacyDRtbAMrVa/k3yGEVjVlqZuqrFxK3nL9k6GIL7Kxa4pSV/fDNqTbfhnOy+x9YO5+smd/f5bL+ZaSzjTr2WJVInV6UICD2gj76sydLS9KXOAsIg48XXm6jAO1KXamzNoWxfiML9z7VsEueJm6heAD2g54P6E6V6zENb5bnFuCPivXk0e7WjK8MbwuhgBizUeyjlGX+wuENVxYpCMD5khTxVlr56aW8Jho2t/p8E4fq6MIfboL3w2iBdeKZvp/9w2yoL3qLnsqPNG2lnONceb/p0skc=",
+            "videoId": "sdQUyHW19-U"
+        },
+        {
+            "location": "Lecture Room G",
+            "topic": "Resource Extraction Autonomous Vehicle for Environmental Recovery (REAVER)",
+            "groupNumber": 7,
+            "slides": "U2FsdGVkX1954ZUdUkDdmZy1FqguhK+qFp7CqGz/mTujhqJtNbr5m2UHvwFubpM/bBceP5urGi+yW/tiUcTGDsAcK1atVgECYvDfyN44g5vgZt2+gvZidwJWdsZ21n2HVj4v54z4DYtWTGNQW6a0e6UnLAVieF16h+tC7MuNmqiclB0SrYEmpfDi4U478xb1UybS7ol6CCaHqTpoWSQ3/CzBXkJuNTW5wENSdVpQ/Ksomm9fMko5Qoh4Li1ZCF3rR2iPKJ2TNcDVoQv3EKn1X8nyoy6fk2gNGPdGcKW/vCALmRDj4Eay2FiqE3pgST+R9t0AoKbgZJj5xOZ/Xb1EEHpz4DVR7Ce+XO4c3O8x/vI3xdRHgOOpZb2WhmifLWiNc2ZY6WXMUl7U6pEUEOy4YA7thVkPWrygKKUrdoTyuwo=",
+            "videoId": "FCFRZPAtC5Q"
+        },
+        {
+            "location": "Lecture Room B",
+            "topic": "FoilDrone",
+            "groupNumber": 12,
+            "slides": "U2FsdGVkX1/ORqE/TuVBxnSHBO/iKU5R4kfa5NM/xcLKasiiwviUUgTc7v3/TXhykk5Aiv7hIABsPnG4462ZRLdcegGCdpvf3P6L3jLEQDhVZoc8puvs8ehTK3hY7uUegvDW2cP5O68eZLO+L3W+xfDZS6ypYhYSs12HYt+tfGkSzbXqaD9NlfwClq4q2aMcHalgqAWyhJiTnOnVGmAM8+62HNoTRppIPcHG4sXGw2pkfOl+hdxuSVhPe4rQsLCA2Celijn4kLFMSO8qfLQ6ldEeipacbXeCBkVsu+VKWW7S2hD2Fq++EKghdW0bt70Z1nodUW5vj6puxUY+Z+mxcEwIFKq3tYEv4m9ewspL9grHKBcoiLSnyjOrFGMTHFg+GiN5NWjKmVKnC6WfEEUx/XFWx+aSak5rVsZldRgCOC0=",
+            "videoId": "OlZeKWp0tSg"
         },
         {
             "location": "Faculty Foyer",
             "topic": "DSE Award Ceremony",
             "groupNumber": 33,
-            "videoId": "dE5mhIXCbME",
-            "slides": "U2FsdGVkX18PNUpjwBag4QgrnXocB3/UQ/c9teGIg1LiogxQcPaRN385uFN9jSLsnF55CONjHyPzpSlEdV/0y8BldNnDO1qhurFFqERslEi5IrfAb5EV0FdRc+j6OXEy5HpOaVENF8D9DvKl3rhV7PwimdnJs1dd2Ykm1ZXkamiTxzR5XxgRrmDcSSQs8HzGL0J4dMGUkNZqvUKeAPCakWDQAWPYB7vFbGUSbC0QuJVZYhUk9DvttDi4DgUErRYp082Cdlh4rPePQe3vSt+uGwe9bzKezCm6G1HnpfxFqrs1EtqBZEyHtVSX1p8VGFuLGOTbiK1cm0n3160mwLKlqWqhv/OmiSs3K9nA8JcJ7DLTcwg8X8w/b4Hy9dnxJNiDhxGl22C7372S/JHmPV85aa4wEYTaenJC4KmuBFiiyd8YmQXIOgI+FkJ9hxXcz+C5"
+            "slides": "U2FsdGVkX19tBWSbU26kjsx4sX3HwlWQkgW7Cb2fhmFJQnPgf7s6NPqLkr27RYfLOJS7yVNmPoeT9DEe+NyWZRx9SPJQa5Rsd83adBA+V7nRG5nLkRxmQqlAdr6IED+hUxTyCa0HRddm1utOH5F1gqp/rDx9ilL1mDSE676s/kk0FrBtyaS0HFjrd/psGqEamogTeoGNqu4EIuTF4zOdrDDeg4ebt16880hTbjPK995FfJhofRppfzWrGwlpq6rsZYfIljVj4U4rS01ZObD2wCm9zI/IjxnSK1yAvNZKwj3HoRZaAIn5SwjI/LzXVD5BnJFL1oQsQJorrBC8czzPmZ02Vhc4W0yJqGSFrSEBOFFYP930lX9D8Q9q118jpp9YDfXM5sF+C/U3fbOE5uNoAUz1npadwrxKTRLHjv6hoKOfKIh85YgIrLcEK3pvMJtN",
+            "videoId": "iX8qgxhqJ20"
         }
     ],
     "timeSlots": [
         {
             "time": "09:00 \u2014 10:00",
-            "starting": "2025-06-27T09:00:00+02:00",
-            "ending": "2025-06-27T10:00:00+02:00",
+            "starting": "2026-06-26T09:00:00+02:00",
+            "ending": "2026-06-26T10:00:00+02:00",
             "groups": [
                 13,
-                8,
                 1,
+                10,
+                14,
+                25
+            ]
+        },
+        {
+            "time": "10:00 \u2014 11:00",
+            "starting": "2026-06-26T10:00:00+02:00",
+            "ending": "2026-06-26T11:00:00+02:00",
+            "groups": [
+                11,
+                3,
+                32,
                 23,
                 24
             ]
         },
         {
-            "time": "10:00 \u2014 11:00",
-            "starting": "2025-06-27T10:00:00+02:00",
-            "ending": "2025-06-27T11:00:00+02:00",
-            "groups": [
-                32,
-                6,
-                25,
-                22,
-                17
-            ]
-        },
-        {
             "time": "11:00 \u2014 12:00",
-            "starting": "2025-06-27T11:00:00+02:00",
-            "ending": "2025-06-27T12:00:00+02:00",
+            "starting": "2026-06-26T11:00:00+02:00",
+            "ending": "2026-06-26T12:00:00+02:00",
             "groups": [
-                3,
-                7,
-                21,
-                27,
-                2
+                16,
+                5,
+                18,
+                19,
+                29
             ]
         },
         {
             "time": "12:00 \u2014 13:00",
-            "starting": "2025-06-27T12:00:00+02:00",
-            "ending": "2025-06-27T13:00:00+02:00",
+            "starting": "2026-06-26T12:00:00+02:00",
+            "ending": "2026-06-26T13:00:00+02:00",
             "groups": [
-                29,
-                9,
-                16,
-                5,
-                30
+                20,
+                4,
+                17,
+                8,
+                9
             ]
         },
         {
             "time": "13:45 \u2014 14:45",
-            "starting": "2025-06-27T13:45:00+02:00",
-            "ending": "2025-06-27T14:45:00+02:00",
+            "starting": "2026-06-26T13:45:00+02:00",
+            "ending": "2026-06-26T14:45:00+02:00",
             "groups": [
-                19,
-                11,
-                26,
-                28,
-                18
+                21,
+                6,
+                15,
+                31,
+                27
             ]
         },
         {
             "time": "14:45 \u2014 15:45",
-            "starting": "2025-06-27T14:45:00+02:00",
-            "ending": "2025-06-27T15:45:00+02:00",
+            "starting": "2026-06-26T14:45:00+02:00",
+            "ending": "2026-06-26T15:45:00+02:00",
             "groups": [
-                15,
-                10,
-                14,
-                4,
-                20
+                28,
+                2,
+                22,
+                26,
+                30
             ]
         },
         {
             "time": "15:45 \u2014 16:45",
-            "starting": "2025-06-27T15:45:00+02:00",
-            "ending": "2025-06-27T16:45:00+02:00",
+            "starting": "2026-06-26T15:45:00+02:00",
+            "ending": "2026-06-26T16:45:00+02:00",
             "groups": [
-                12,
-                31
+                7,
+                12
             ]
         },
         {
             "time": "17:30 \u2014 18:00",
-            "starting": "2025-06-27T17:30:00+02:00",
-            "ending": "2025-06-27T18:00:00+02:00",
+            "starting": "2026-06-26T17:30:00+02:00",
+            "ending": "2026-06-26T18:00:00+02:00",
             "groups": [
                 33
             ]
@@ -325,34 +325,34 @@
     ],
     "rooms": [
         {
-            "name": "Lecture Hall A",
+            "name": "Lecture Room A",
             "location": "A",
             "chair": "ir. Joris Melkert"
         },
         {
-            "name": "Lecture Hall B",
-            "location": "B",
+            "name": "Lecture Room G",
+            "location": "G",
             "chair": "dr. Jian Guo"
         },
         {
-            "name": "Lecture Hall C",
+            "name": "Lecture Room B",
+            "location": "B",
+            "chair": "dr.ir. Otto Bergsma"
+        },
+        {
+            "name": "Lecture Room C",
             "location": "C",
-            "chair": "ir. Jos Sinke"
+            "chair": "prof.dr. Marilena Pavel"
         },
         {
-            "name": "Lecture Hall D",
-            "location": "D",
-            "chair": "dr. Marilena Pavel"
-        },
-        {
-            "name": "Lecture Hall K",
-            "location": "K",
+            "name": "Lecture Room E",
+            "location": "E",
             "chair": "dr.ir. Maurice Hoogreef"
         },
         {
             "name": "Faculty Foyer",
             "location": "M",
-            "chair": "ir. Joris Melkert"
+            "chair": "dr.ir. Joris Melkert"
         }
     ]
 }
